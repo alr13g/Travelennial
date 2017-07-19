@@ -1,24 +1,19 @@
 <!DOCTYPE html>
  <html>
   <head>
+    <meta charset="utf-8">
     <title>Tralennial: The travel site for Millenails</title>
-    <link rel="stylesheet" href="{{ url_for('static',filename='css/main.css')}}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>
-   <body>
-      <header>
-         <div class="container">
-           <h1 class="logo">Tralennial</h1>
-           <strong><nav>
-             <u1 class="menu">
-               <li><a href="{{ url_for('home')}}">Home</a></li>
-               <li><a href=" {{ url_for('about') }}">About</a></li>
-             </u1>
-            </nav></strong>
-         </div>
-      </header>
+    <div class="container">
+      {% include 'includes/_navbar.html' %}
       <div class="container">
-      	{% block content %}
-      	{% endblock %}
-      </div>	
-    </body>
+    	   {% block content %}
+         {% endblock %}
+      </div>
+
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+
+      </script>
+    </div>
   </html>

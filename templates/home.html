@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html>
- <body>
- {% extends "layout.html" %}
- {% block content %}
-  <div class="home">
-	<h1> My Personal Website </h1>
-	<p> Hi, this is my personal website. </p>
-  </div>
-  {% endblock %}
- </body>
-</html>
+{% extends "layout.html" %}
+{% block content %}
+  <h1> My Personal Website </h1>
+  <p> Hi, this is my personal website. </p>
+  <body>
+    <div class="container">
+      <h1>Choose an Airport</h1>
+      {% for airport in airports %}
+      <p><button href="{{airport.key}}" class="btn btn-primary" role="button">{{airport.name}}</button></p>
+      {% endfor %}
+</div>
+</body>
+{% endblock %}
