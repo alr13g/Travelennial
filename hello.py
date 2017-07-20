@@ -2,6 +2,9 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
+#use for maps
+mapKey = "AIzaSyCWvuV9bMA9iUGNCqqWdgKu4vuAfmlNAUk"
+
 class airport:
 	def __init__(self, name, key, lat, lng):
 		self.name = name
@@ -29,7 +32,7 @@ Joey Testa
 '''
 airports = (
 	airport('Tallhassee International Airport', 'TIA', 30.3954, 84.3451),
-	airport('Test', 'T', 0,0)
+	airport('Test', 'Te', 37.9045286, -122.1445772)
 )
 
 airport_by_key = {airport.key: airport for airport in airports}
@@ -38,9 +41,17 @@ airport_by_key = {airport.key: airport for airport in airports}
 def home():
 	return render_template('home.html', airports = airports)
 
-@app.route('/search/<airport_code>/')
+@app.route('/search/')
 def search():
-	return render_template('search.html', airport = airport)
+	return render_template('search.html', airports = airports)
+
+@app.route('/<airport_code>')
+def show_route(airport_code):
+	airport = airport_by_key.get(airport_code)
+	if airport:
+		return render_template('map.html', airport = airport)
+	else:
+		return render_template('search.html', airports = airports)
 
 @app.route('/about/')
 def about():
