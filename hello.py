@@ -3,7 +3,7 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 #use for maps
-mapKey = "AIzaSyCWvuV9bMA9iUGNCqqWdgKu4vuAfmlNAUk"
+mapKey = "AIzaSyD_3OXGut2rO_V_aH1DFxuJdaqmHtlSofU"
 
 class airport:
 	def __init__(self, name, key, lat, lng):
@@ -31,7 +31,7 @@ Like do they want to be on the north side or south side of california?
 Joey Testa
 '''
 airports = (
-	airport('Tallhassee International Airport', 'TIA', 30.3954, 84.3451),
+	airport('Tallhassee International Airport', 'TIA', 30.395412, -84.3472458),
 	airport('Test', 'Te', 37.9045286, -122.1445772)
 )
 
