@@ -74,3 +74,16 @@
       color: #444;
       text-decoration: none;
     }
+
+    .wrapper{
+    display : inline;
+    border:1px solid lightgray;
+    padding:4px;
+    box-shadow:inset 1px 1px 1px rgba(0,0,0,.1)
+	}
+	input {
+    	border:0;
+	}
+	label {
+	color : gray;
+	}

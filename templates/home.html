@@ -4,8 +4,17 @@
  {% extends "layout.html" %}
  {% block content %}
   <div class="home">
-	<h1> My Personal Website </h1>
-	<p> Hi, this is my personal website. </p>
+	<h1><center> Welcome to Tralennial! </center></h1>
+	<p><center> Planning your perfect vacation begins here </center> </p>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.11.4/themes/ui-lightness/jquery-ui.css"> 
+  <div class='wrapper'>
+    <label for="from">from:</label>
+    <input type="text" id="from" name="from">
+    <label for="to">to:</label>
+    <input type="text" id="to" name="to">
   </div>
   {% endblock %}
  </body>
