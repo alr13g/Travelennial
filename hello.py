@@ -29,6 +29,7 @@ Joey Testa
 '''
 airports = [
 	airport('Tallhassee International Airport', 'TIA', 30.395412, -84.3472458),
+	airport('Boston Logan International Airport', 'BOS', 42.3656132, -71.0117489),
 	airport('Test', 'Te', 37.9045286, -122.1445772)
 ]
 
@@ -52,7 +53,7 @@ def search():
 def show_route(airport_code):
 	airport = airport_by_key.get(airport_code)
 	if airport:
-		return render_template('map.html', airport = airport, destination = destination)
+		return render_template('map.html', temp = airport, destination = destination)
 	else:
 		return render_template('search.html', airports = airports)
 

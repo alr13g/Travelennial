@@ -1,34 +1,48 @@
 <!DOCTYPE html>
 {% extends "layout.html" %}
 {% block content %}
+    <body>
+      <div id="map" style="width:100%; height:600px;"></div>
 
-    <script type="text/javascript">
-    function initMap(){
-        var myLatLng = {lat: {{destination[0].lat}}, lng: {{destination[0].lng}}};
+      <script type="text/javascript">
 
+        function initMap(){
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 5,
-          center: myLatLng
+          zoom: 6,
+          center: new google.maps.LatLng({{destination[0].lat}}, {{destination[0].lng}}),
+
         });
 
-        var marker = new google.maps.Marker({
-          position: myLatLng,
-          map: map,
-          title: '{{airport.name}}'
+        var poly = new google.maps.Polyline({
+          strokeColor: '#ff0000',
+          strokeOpacity: 2.0,
+          strokeWeight:2,
+          map: map
         });
 
+        var path = poly.getPath();
+
+        var infowindow = new google.maps.InfoWindow();
+
+        var marker, i;
 
 
+        {% for airport in destination %}
+          marker = new google.maps.Marker({
+            position: new google.maps.LatLng('{{airport.lat}}', '{{airport.lng}}'),
+            map: map
+          });
 
-      };
-    </script>
+          path.push(new google.maps.LatLng('{{airport.lat}}', '{{airport.lng}}'));
 
-  <h1> Look for your travel destination! </h1>
-  <p> Select one of our starting points and end with an airport </p>
-  <body onload="initMap()">
-    <div class = "container">
-      <h1>{{destination[0].name}}</h1>
-      <div id="map" style="width:100%; height:900px;"></div>
-</div>
-</body>
-{% endblock %}
+          google.maps.event.addListener(marker, 'click', (function(marker, i) {
+            return function() {
+              infowindow.setContent('{{airport.name}}');
+              infowindow.open(map, marker);
+            }
+          })(marker, i));
+        {% endfor %}
+      }
+      </script>
+    </body>
+{%endblock%}
