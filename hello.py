@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
@@ -13,11 +13,8 @@ class airport:
 		self.lng = lng
 
 '''
-This is just a tempate but from the video im watching he uses the key
-as a part of the web page traversal. So im thinking when we crawl airports for
-locations we see if they already exist within our database. if not we add them and make
-their custom key be the first letter of each word. if we have a key conflict then
-we take the second letter from the first word infront of the first words location.
+Right now i am having issues with multiple markers. i cant have the tuple i made here properly work with the html file.
+However, if the data is on the html side it does work. REFERENCE test.html
 
 We are also should store the information so that we dont backtrack but my idea is a list of lists ie
 
@@ -30,10 +27,12 @@ Like do they want to be on the north side or south side of california?
 
 Joey Testa
 '''
-airports = (
+airports = [
 	airport('Tallhassee International Airport', 'TIA', 30.395412, -84.3472458),
 	airport('Test', 'Te', 37.9045286, -122.1445772)
-)
+]
+
+destination = airports
 
 airport_by_key = {airport.key: airport for airport in airports}
 
@@ -41,15 +40,19 @@ airport_by_key = {airport.key: airport for airport in airports}
 def home():
 	return render_template('home.html', airports = airports)
 
+@app.route("/test/")
+def test():
+	return render_template('test.html', destination = airports)
+
 @app.route('/search/')
 def search():
 	return render_template('search.html', airports = airports)
 
-@app.route('/<airport_code>')
+@app.route('/search/<airport_code>')
 def show_route(airport_code):
 	airport = airport_by_key.get(airport_code)
 	if airport:
-		return render_template('map.html', airport = airport)
+		return render_template('map.html', airport = airport, destination = destination)
 	else:
 		return render_template('search.html', airports = airports)
 
