@@ -1,21 +1,40 @@
 <!DOCTYPE html>
-<html>
- <body>
- {% extends "layout.html" %}
- {% block content %}
-  <div class="home">
-	<h1><center> Welcome to Tralennial! </center></h1>
-	<p><center> Planning your perfect vacation begins here </center> </p>
-  </div>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <script src="https://code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
-  <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.11.4/themes/ui-lightness/jquery-ui.css"> 
-  <div class='wrapper'>
-    <label for="from">from:</label>
-    <input type="text" id="from" name="from">
-    <label for="to">to:</label>
-    <input type="text" id="to" name="to">
-  </div>
-  {% endblock %}
- </body>
-</html>
+{% extends "layout.html" %}
+{% block content %}
+  <h1><center><font color = "white"> Travel Edge - Travel like a pro, on a millenial budget </font></center></h1>
+  <body background="/static/travel_background.jpg">
+  <form>
+  <fieldset>
+    <legend><center><font color="white">Find a Flight</font></legend>
+    <div id = "travelForm">
+      <input type = "text" id="from-airport" autocomplete="off" align="center" placeholder="From:" required><br><br>
+    </div>
+    <div>
+      <input type="text" id="to-airport" autocomplete="off" align = "center" placeholder = "To:" required><br><br>
+    </div>
+    <div>
+      <input type="date" id="date" placeholder="yyyy-mm-dd" align = "center" required>
+    </div><br><br>
+      <div id="hops">
+        <label for="hops-any"><font color="white">Any</font></label>
+        <input type="radio" name="hops" id="hops-any" value="" checked>
+        <label for="hops-nonstop"><font color="white">Nonstop Only</font></label>
+        <input type="radio" name="hops" id="hops-nonstop" value="NONSTOP">
+      </div>
+    <div><br><br>
+      <button id="lookup" class="ui-priority-primary">Search</button>
+    </div>
+  </fieldset>
+</form>
+
+<div id="flights-container"></div>
+
+    <div class="container">
+
+
+      {% for airport in airports %}
+      <p><button href="{{airport.key}}" class="btn btn-primary" role="button">{{airport.name}}</button></p>
+      {% endfor %}
+</div>
+</body>
+{% endblock %}
