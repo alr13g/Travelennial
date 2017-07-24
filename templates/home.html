@@ -33,7 +33,7 @@
 
 
       {% for airport in airports %}
-      <p><button href="{{airport.key}}" class="btn btn-primary" role="button">{{airport.name}}</button></p>
+      <p><a href="/search/{{airport.key}}" class="btn btn-primary" role="button">{{airport.name}}</a></p>
       {% endfor %}
 </div>
 </body>
