@@ -79,3 +79,19 @@
       background: blue;
       cursor: pointer;
   }
+
+  #map_page_container{
+      width: 500px;
+  }
+
+  #filter_container{
+     display: inline-block; 
+     width: 50px;
+     float:left;
+  }
+
+  #allFlights_container{
+      display: inline-block;
+      width: 50px;
+      float:right;
+  }

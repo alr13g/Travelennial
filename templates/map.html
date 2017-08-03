@@ -1,15 +1,121 @@
 <!DOCTYPE html>
 {% extends "layout.html" %}
 {% block content %}
-    <body>
+  <head>
+  <style>
+
+   body{
+    background-color: white;
+   }
+
+   hr{
+    color: #168DFD;
+    border-color: #168DFD;
+    background-color: #168DFD;
+   }
+
+   li{
+    color: darkblue;
+   }
+   
+   .map_page_container{
+      background: red;
+      overflow: hidden;
+   }
+
+  .filter_container{
+     padding-right: 50px;
+     float:left;
+  }
+
+  .allFlights_container{
+      background: green;
+      float:right;
+      position:fixed;
+  }
+  </style>
+  </head>
+  <body>
+    <center><h1><font color = "darkblue">Choose Your Departing Flight </font><h1></center>
+    <div id="map_page_container">
       <div id="map" style="width:100%; height:600px;"></div>
+      
+      <div class = "filter_container">
+      <article id = "filters">
+        <section id="price">
+            <p id="fHeader">Price</p>
+            <input type="checkbox" name="price" value="p1" id="p1" />$100 - $200
+            <br/>
+            <input type="checkbox" name="price" value="p2" id="p2" />$201 - $300
+            <br/>
+            <input type="checkbox" name="price" value="p3" id="p3" />$301 - $400
+            <br/>
+            <input type="checkbox" name="price" value="p4" id="p4" />$401 - $500
+            <br/>
+            <input type="checkbox" name="price" value="p5" id="p5" />$501 - $600
+            <br/>
+            <input type="checkbox" name="price" value="p6" id="p6" />$601 +
+            <br/></br>
+        </section>
+        <section id="stops">
+            <p id="fHeader">Stops</p>
+            <input type="checkbox" name="stops" value="nonstop" id="nonstop" />Non stop
+            <br/>
+            <input type="checkbox" name="stops" value="onestop" id="onestop" />1 stop
+            <br/><br>
+        </section>
+        <section id="airline">
+            <p id="fHeader">Category</p>
+            <input type="checkbox" name="airline" value="Delta" id="Delta" />Delta
+            <br/>
+            <input type="checkbox" name="airline" value="AmericanAirlines" id="AmericanAirlines" />American Airlines
+            <br/>
+            <input type="checkbox" name="airline" value="United" id="United" />United
+            <br/>
+            <input type="checkbox" name="airline" value="Frontier" id="Frontier" />Frontier
+            <br/>
+            <input type="checkbox" name="airline" value="JetBlue" id="JetBlue" />Jet Blue Airways
+            <br/>
+            <input type="checkbox" name="airline" value="Spirit" id="Spirit" />Spirit Airlines
+            <br/>
+            <input type="checkbox" name="airline" value="Alaska" id="Alaska" />Alaska Airlines
+            <br/>
+            <input type="checkbox" name="airline" value="SunCountry" id="SunCountry" />Sun Country Airlines
+            <br/>
+            <input type="checkbox" name="airline" value="VirginAmerica" id="VirginAmerica" />Virgin America
+            <br/><br><br>
+        </section>
+        </article>
+      </div>
+      <div id="allFlights_container">
+      <article id="allflights">
+        {% for flight in flight_list %}
+        <ul id="flightlist">
+          <li data-price={{flight[12]}} data-airline={{flight[13]}}> <a href = "JakkisStuffToDoPage">Add this Flight to your itenerary</a>
+            <p> Flight Category: {{flight[12]}}</p>
+            <p> Airline Category: {{flight[13]}}</p>
+            <p> Departure Airport: {{flight[3]}}</p>
+            <p> Departure Time: {{flight[4]}}</p>        
+            <p> Arrival Airport: {{flight[1]}}</p>
+            <p> Arrival Time: {{flight[2]}}</p>
+            <p> Flight Details: </p>
+            <p > Airline: {{flight[5]}}, Flight Duration: {{flight[6]}}, stops: {{flight[10]}}, price:   {{flight[11]}}</p>     
+            <button onlick="/source_flight/{{flight[11]}}"> Add this flight to your itenerary </button>
+          </li> 
+        </ul>
+        </article>
+        <hr>
+        {% endfor %}
+          <a href="/returns" class="btn btn-default">Next >></a>
+      </div>
+    </div>
 
       <script type="text/javascript">
 
         function initMap(){
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 6,
-          center: new google.maps.LatLng({{destination[0].lat}}, {{destination[0].lng}}),
+          center: new google.maps.LatLng({{destination[0][0]}}, {{destination[0][0]}}),
 
         });
 
@@ -29,20 +135,38 @@
 
         {% for airport in destination %}
           marker = new google.maps.Marker({
-            position: new google.maps.LatLng('{{airport.lat}}', '{{airport.lng}}'),
+            position: new google.maps.LatLng('{{airport[0]}}', '{{airport[1]}}'),
             map: map
           });
 
-          path.push(new google.maps.LatLng('{{airport.lat}}', '{{airport.lng}}'));
+          path.push(new google.maps.LatLng('{{airport[0]}}', '{{airport[1]}}'));
 
           google.maps.event.addListener(marker, 'click', (function(marker, i) {
             return function() {
-              infowindow.setContent('{{airport.name}}');
+              infowindow.setContent('');
               infowindow.open(map, marker);
             }
           })(marker, i));
         {% endfor %}
       }
+      </script>
+
+      <script>
+        $(document).ready(function () {
+
+          $('#filters :checkbox').click(function () {
+            if ($('input:checkbox:checked').length) {
+              $('li').hide();
+              $('hr').hide();
+              $('input:checkbox:checked').each(function () {
+                $('li[data-' + $(this).prop('name') + '*="' + $(this).val() + '"]').show();
+              });
+          } else {
+              $("li").show();
+            }
+          });
+    
+        });
       </script>
     </body>
 {%endblock%}
