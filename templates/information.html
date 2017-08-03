@@ -1,22 +1,42 @@
 <!DOCTYPE html>
 {% extends "layout.html" %}
 {% block content %}
-  <h1><center><font color = "black"> Personalize your experience.... </font></center></h1>
+  <style>
+  body{
+    background-repeat: no-repeat;
+    background-size:100%;
+  }
+  body h1{
+    color:black;
+    text-align:center;
+  }
+  .button{
+  	margin-left:15%;
+  }
+    .right{
+  	float:right;
+  	margin-right:15%;
+  }
+  .row{
+  	padding-bottom:2%;
+  }
+  #grid img{
+  	height:350px;
+  	width:400px;
+  }
+  </style>
     <body>
-    <form>
-      <fieldset>
-      <div>
-        Hotels: <input type="text" name="getHotels"><br>
-      </div>
-      <div>
-        Attractions: <input type=text name="getAttrac" required><br>
-      </div>
-      <div>
-        Check Transportation
-      </div>
-
-
-      </fieldset>
-    </form>
+      <h1>Personalize your experience. </h1>
+      <hr/>
+      <div id="grid">
+      	<div class="row">
+	      	<a href="link" class = "button"><img src="/static/gimpHotel.png"></a>
+	      	<a href="link" class = "right"><img src="/static/bar.jpg"></a>
+	    </div>
+	    <div class="row">
+	      	<a href="link" class = "button"><img src="/static/gimpAttractions.jpg"></a>
+	      	<a href="link" class = "right"><img src="/static/gimpFood.png"></a>
+	      </div>
+	    </div>
     </body>
 {%endblock%}

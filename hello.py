@@ -46,5 +46,9 @@ def show_route():
 def about():
 	return render_template('about.html')
 
+@app.route('/information/')
+def information():
+	return render_template('information.html')
+
 if __name__ == "__main__":
 	app.run(debug=True)
