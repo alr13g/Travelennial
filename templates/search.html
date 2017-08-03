@@ -7,8 +7,8 @@
     <div class="container">
       <h1>Choose an Airport</h1>
       {% for airport in airports %}
-      <form action="/search/{{airport.key}}" class="form" method= "post">
-      <p><a href="/search/{{airport.key}}" class="btn btn-primary" role="button">{{airport.name}}</a></p>
+      <form action="/search/map/" class="form" method= "post">
+      <p><a href="/search/map" class="btn btn-primary" role="button">{{airport[0]}}</a></p>
       {% endfor %}
 </div>
 </body>

@@ -11,12 +11,15 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script async defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWvuV9bMA9iUGNCqqWdgKu4vuAfmlNAUk&callback=initMap"></script>
+
   </head>
     <div class="container">
       {% include 'includes/_navbar.html' %}
       <div class="container">
+        <script async defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_3OXGut2rO_V_aH1DFxuJdaqmHtlSofU&libraries=places&callback=initMap">
+        </script>
          {% block content %}
+
          {% endblock %}
       </div>
 

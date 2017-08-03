@@ -4,12 +4,12 @@
     <body>
       <div id="map" style="width:100%; height:600px;"></div>
 
-      <script type="text/javascript">
+      <script>
 
         function initMap(){
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 3,
-          center: new google.maps.LatLng({{destination[0].lat}}, {{destination[0].lng}}),
+          center: new google.maps.LatLng({{destination[0][0]}}, {{destination[0][1]}}),
 
         });
 
@@ -29,15 +29,16 @@
 
         {% for airport in destination %}
           marker = new google.maps.Marker({
-            position: new google.maps.LatLng('{{airport.lat}}', '{{airport.lng}}'),
+            position: new google.maps.LatLng('{{airport[0]}}', '{{airport[1]}}'),
             map: map
+
           });
 
-          path.push(new google.maps.LatLng('{{airport.lat}}', '{{airport.lng}}'));
+          path.push(new google.maps.LatLng('{{airport[0]}}', '{{airport[1]}}'));
 
           google.maps.event.addListener(marker, 'click', (function(marker, i) {
             return function() {
-              infowindow.setContent('{{airport.name}}');
+              infowindow.setContent('{{airport[0]}}');
               infowindow.open(map, marker);
             }
           })(marker, i));
