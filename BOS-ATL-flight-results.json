@@ -1,0 +1,1118 @@
+[
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:14am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:55am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "106.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "6:29am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:10am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "106.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:36am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 19 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "106.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "6:29am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:10am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:46am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:20am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 36 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "121.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:25am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:36am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 49 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "156.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:44pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 49 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "156.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:32pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:45am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 47 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "158.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:15am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "158.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "158.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "158.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 55 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "158.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 49 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "158.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:52pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:55pm"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 2 hours 57 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "165.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:34am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:24am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "8:34am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 24 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "166.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "1:57pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "166.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "9:22am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:06pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 6 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "166.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "1:57pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:21pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 1 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "166.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "9:43am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:30am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:06pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 36 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "166.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:08pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 53 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "181.19"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:21pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:29am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 52 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "181.19"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:41pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:51pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "183.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:19am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 19 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "190.30"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "7:39am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:40am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:38am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 40 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "191.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "4:49pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "191.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "3:38pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "4:49pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "191.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:08am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:07pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "12:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 37 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "191.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:08am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:42pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 12 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "191.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:29am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:42pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 42 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "191.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "10:32am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:01pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 1 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "191.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "11:36am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:01pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 1 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "222.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "1:33pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "4:49pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "259.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "4:41pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 4 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "259.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "5:36pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "259.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:48pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 58 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "261.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "261.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:13am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "261.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:56pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 56 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "261.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "10:39pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:22am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 11 hours 22 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "265.40"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "12:32pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:01pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 1 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:40pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:44pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 4 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:29am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:27am", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 27 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:49am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:42pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 27 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:49am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:07pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "12:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 52 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "283.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:29pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 59 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "283.20"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:44pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 39 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.40"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Indianapolis, IN (IND-Indianapolis Intl.)", 
+                "arrival_time": "11:22pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:47pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Indianapolis, IN (IND-Indianapolis Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 10 hours 43 minutes", 
+        "plane code": "E70", 
+        "plane": "EMBRAER 170", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "301.40"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:48pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:15pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:52pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 37 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "313.30"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:59pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:16pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:02pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 17 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "313.30"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "6:43pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 4 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "314.80"
+    }, 
+    {
+        "arrival": "Atlanta", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "2:02pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:28pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 58 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "314.80"
+    }
+]
