@@ -23,16 +23,9 @@ class airport:
 		self.lng = lng
 
 airports = [
-<<<<<<< HEAD
-	[30.395412, -84.3472458],
-	[42.3656132, -71.0117489],
-	[37.9045286, -122.1445772]
-]
-=======
 	airport('Tallhassee International Airport', 'TIA', 30.395412, -84.3472458),
 	airport('Boston Logan International Airport', 'BOS', 42.3656132, -71.0117489),
 	airport('Test', 'Te', 37.9045286, -122.1445772)]
->>>>>>> 2b48c351ae532e5f826bb2a953f1aed557dcf574
 
 destination = airports
 
@@ -116,6 +109,10 @@ def show_route():
 @app.route('/about/')
 def about():
 	return render_template('about.html')
+
+@app.route('/information/')
+def information():
+	return render_template('information.html')
 
 if __name__ == "__main__":
 	app.run(debug=True)

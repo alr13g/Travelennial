@@ -114,13 +114,11 @@
 
         function initMap(){
         var map = new google.maps.Map(document.getElementById('map'), {
-<<<<<<< HEAD
           zoom: 3,
           center: new google.maps.LatLng({{destination[0][0]}}, {{destination[0][1]}}),
-=======
           zoom: 6,
           center: new google.maps.LatLng({{destination[0][0]}}, {{destination[0][0]}}),
->>>>>>> 2b48c351ae532e5f826bb2a953f1aed557dcf574
+
 
         });
 
@@ -149,11 +147,8 @@
 
           google.maps.event.addListener(marker, 'click', (function(marker, i) {
             return function() {
-<<<<<<< HEAD
               infowindow.setContent('{{airport[0]}}');
-=======
               infowindow.setContent('');
->>>>>>> 2b48c351ae532e5f826bb2a953f1aed557dcf574
               infowindow.open(map, marker);
             }
           })(marker, i));
