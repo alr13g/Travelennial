@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{% extends "layout.html" %}
+{% block content %}
+  <style>
+  body{
+    background-repeat: no-repeat;
+    background-size:100%;
+  }
+  body h1{
+    color:black;
+    text-align:center;
+  }
+  .button{
+  	margin-left:15%;
+  }
+    .right{
+  	float:right;
+  	margin-right:15%;
+  }
+  .row{
+  	padding-bottom:2%;
+  }
+  #grid img{
+  	height:350px;
+  	width:400px;
+  }
+  </style>
+    <body>
+      <h1>Personalize your experience. </h1>
+      <hr/>
+      <div id="grid">
+      	<div class="row">
+	      	<a href="link" class = "button"><img src="/static/gimpHotel.png"></a>
+	      	<a href="link" class = "right"><img src="/static/gimpBar.png"></a>
+	    </div>
+	    <div class="row">
+	      	<a href="link" class = "button"><img src="/static/gimpFood.png"></a>
+          <a href="link" class = "right"><img src="/static/gimpAttractions.jpg"></a>
+	      </div>
+	    </div>
+    </body>
+{%endblock%}

@@ -162,8 +162,13 @@ def itenerary_postdeparture():
 			print(flight)
 			depart_flight = flight
 
+	allAirports = []
+	allAirports = get_all_airports()
+	for airportitem in allAirports:
+		print(airportitem[0] + " " + airportitem[1])
+
 	iteneraryItems.append(['departure_flight', depart_flight])
-	return render_template('itenerary.html', itenerary_items = iteneraryItems)
+	return render_template('returns.html', airport_list = allAirports)
 
 @app.route("/itenerary/return", methods = ["POST", "GET"])
 def itenerary_postreturn():
@@ -183,7 +188,7 @@ def itenerary_postreturn():
 			return_flight = flight
 
 	iteneraryItems.append(['return_flight', return_flight])
-	return render_template('itenerary.html', itenerary_items = iteneraryItems)
+	return render_template('information.html')
 
 @app.route("/returns/")
 def returns():
@@ -192,6 +197,14 @@ def returns():
 	for airportitem in allAirports:
 		print(airportitem[0] + " " + airportitem[1])
 	return render_template('returns.html', airport_list = allAirports)
+
+
+@app.route("/itenerary_info")
+def showItenerary():
+	global iteneraryItems
+	return render_template('itenerary.html', itenerary_items = iteneraryItems)
+
+
 
 @app.route("/return_flight/<string:flight_info>")
 def itenerary(flight_id):
