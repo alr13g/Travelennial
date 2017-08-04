@@ -3,6 +3,8 @@ from flask import Flask, render_template, request
 from flightData import getFlightData
 from parseFlights import parse_all_flights
 from getAirports import get_all_airports
+from hotels import getHotels
+from parseHotels import parse_all_hotels
 import json
 import requests
 from lxml import html
@@ -16,6 +18,9 @@ app = Flask(__name__)
 mapKey = "AIzaSyD_3OXGut2rO_V_aH1DFxuJdaqmHtlSofU"
 global iteneraryItems 
 global global_flight_list 
+global start_date
+global end_date
+global city_name
 
 class airport:
 	def __init__(self, name, key, lat, lng):
@@ -57,12 +62,14 @@ def home():
 @app.route("/", methods = ["POST", "GET"])
 def home_post():
 	print("hereeeeeee!!")
+	global start_date
 	source = request.form['from_id']
 	print("Source: " + str(source))
 	destination = request.form['to_id']
 	print("Destination: " + str(destination))
 	date = request.form['date_id']
 	print("Date " + str(date))
+	start_date = str(date)
 
 	argparser = argparse.ArgumentParser()
 	argparser.add_argument('source',help = 'Source airport code')
@@ -101,6 +108,8 @@ def home_post():
 
 @app.route("/returnFlight", methods = ["POST", "GET"])
 def return_flight_post():
+	global end_date
+
 	print("hereeeeeee!!")
 	source = request.form['from_id']
 	print("Source: " + str(source))
@@ -108,6 +117,7 @@ def return_flight_post():
 	print("Destination: " + str(destination))
 	date = request.form['date_id']
 	print("Date " + str(date))
+	end_date = str(date)
 
 	argparser = argparse.ArgumentParser()
 	argparser.add_argument('source',help = 'Source airport code')
@@ -146,6 +156,7 @@ def return_flight_post():
 
 @app.route("/itenerary/departure", methods = ["POST", "GET"])
 def itenerary_postdeparture():
+	global city_name
 	print("IM IN HERE YO")
 	flight_choice = request.form['flight_depart_choice']
 	print(flight_choice)
@@ -168,7 +179,18 @@ def itenerary_postdeparture():
 		print(airportitem[0] + " " + airportitem[1])
 
 	iteneraryItems.append(['departure_flight', depart_flight])
+	city_name = depart_flight[0]
+
 	return render_template('returns.html', airport_list = allAirports)
+
+@app.route("/itenerary/hotel", methods=["POST", "GET"])
+def itenerary_posthotel():
+	hotel_choice = request.form['hotels_choice']
+	print(hotel_choice)
+	global iteneraryItems
+	iteneraryItems.append(['hotels', hotel_choice])
+
+	return render_template('information.html')
 
 @app.route("/itenerary/return", methods = ["POST", "GET"])
 def itenerary_postreturn():
@@ -205,7 +227,6 @@ def showItenerary():
 	return render_template('itenerary.html', itenerary_items = iteneraryItems)
 
 
-
 @app.route("/return_flight/<string:flight_info>")
 def itenerary(flight_id):
 	return render_template('itenerary.html', source_flight = flight_id)
@@ -226,6 +247,30 @@ def show_route(airport_code):
 	else:
 		return render_template('search.html', airports = airports)
 
+@app.route("/hotel", methods = ["POST", "GET"]) 
+def hotel():
+	global start_date
+	global end_date
+	global city_name
+
+	temp = start_date[6]+ start_date[7] + start_date[8] + start_date[9]
+	temp1 = start_date[0] + start_date[1]
+	temp2 = start_date[3] + start_date[4]
+	new_date = temp + "/" + temp1 + "/" + temp2
+
+	temp = end_date[6]+ end_date[7] + end_date[8] + end_date[9]
+	temp1 = end_date[0] + end_date[1]
+	temp2 = end_date[3] + end_date[4]
+	new2_date = temp + "/" + temp1 + "/" + temp2
+	allHotels = []
+	allHotels = getHotels(new_date, new2_date, "popularity", city_name)
+	more_hotels = []
+	more_hotels = parse_all_hotels(allHotels)
+
+	print(more_hotels)
+
+	return render_template('hotel.html', hotels = more_hotels)
+
 @app.route('/information/')
 def information():
 	return render_template('information.html')
@@ -233,6 +278,7 @@ def information():
 @app.route('/about/')
 def about():
 	return render_template('about.html')
+
 
 if __name__ == "__main__":
 	app.run(debug=True)

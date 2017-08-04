@@ -1,0 +1,1706 @@
+[
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "1 days 15 hours 35 minutes", 
+        "plane code": "359", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "1019.16"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1023.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:16pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 21 hours 39 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1023.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 21 hours 25 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1023.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 17 hours 15 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1032.76"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "1:58pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1032.76"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "1 days 13 hours 45 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "1034.06"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "6:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:10pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Jazz", 
+        "flight duration": "1 days 13 hours 40 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1034.06"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "4:28pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:15pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Jazz", 
+        "flight duration": "1 days 15 hours 35 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1034.06"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "11:43am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Jazz", 
+        "flight duration": "1 days 20 hours 20 minutes", 
+        "plane code": "CRA", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1034.06"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:25pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 15 hours 45 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1037.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "12:08pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 20 hours 30 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1037.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "12:08pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:25pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 20 hours 30 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1037.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "10:43am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 21 hours 55 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1037.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "1:58pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:25pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 18 hours 40 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1037.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "1:58pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 18 hours 40 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1037.66"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:40am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 21 hours 10 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:38pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 17 hours 50 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:44pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 17 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 21 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 21 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:30am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 21 hours 20 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 15 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:16pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 16 hours 34 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "12:13pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:29am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 21 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 16 hours 20 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "6:17pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:45pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 14 hours 5 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1038.56"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "1 days 13 hours 45 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "1043.20"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 17 hours 15 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1050.26"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "12:08pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 22 hours 0 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1050.26"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "1:58pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1050.26"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:44pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:10pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 19 hours 20 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1051.16"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:38pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 19 hours 20 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1051.16"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:10pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 22 hours 0 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1051.16"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "12:13pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:29am"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 21 hours 51 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1051.16"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:40am"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 22 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1051.16"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:16pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 18 hours 4 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1051.16"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:15pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:15pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "1 days 13 hours 40 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1055.76"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:15pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "1 days 13 hours 40 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1055.76"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1063.26"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1063.26"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1063.26"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "3:10pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1063.26"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "4:28pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:15pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Jazz", 
+        "flight duration": "1 days 20 hours 40 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1080.86"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "7:13pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Jazz", 
+        "flight duration": "1 days 17 hours 55 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1080.86"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "6:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:10pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Jazz", 
+        "flight duration": "1 days 18 hours 45 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1080.86"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "10:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 20 hours 50 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1084.46"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 20 hours 50 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1084.46"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 15 hours 30 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1619.10"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 14 hours 0 minutes", 
+        "plane code": "777", 
+        "plane": "Boeing 777", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1915.30"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:10am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "3:35pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 13 hours 15 minutes", 
+        "plane code": "777", 
+        "plane": "Boeing 777", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1965.80"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "3:35pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 14 hours 25 minutes", 
+        "plane code": "777", 
+        "plane": "Boeing 777", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "1965.80"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:45pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "airline": "Alitalia", 
+        "flight duration": "1 days 12 hours 45 minutes", 
+        "plane code": "330", 
+        "plane": "Airbus A330", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "2288.60"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "6:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:45pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "10:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Air Canada Express - Sky Regional", 
+        "flight duration": "1 days 19 hours 10 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "2745.10"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "7:45am"
+            }
+        ], 
+        "airline": "Turkish Airlines", 
+        "flight duration": "2 days 26 hours 50 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "995.00"
+    }, 
+    {
+        "arrival": "Tirana", 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:35pm"
+            }, 
+            {
+                "arrival_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "arrival_time": "8:00pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "airline": "Turkish Airlines", 
+        "flight duration": "1 days 14 hours 25 minutes", 
+        "plane code": "333", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "995.00"
+    }
+]

@@ -102,10 +102,7 @@ def parse(locality,checkin_date,checkout_date,sort):
         hotel_data.append(data)
     return hotel_data
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('checkin_date',help = 'Hotel Check In Date (Format: YYYY/MM/DD')
-    parser.add_argument('checkout_date',help = 'Hotel Chek Out Date (Format: YYYY/MM/DD)')
+def getHotels(checkinDate, checkoutDate, popularity, destination):
     sortorder_help = """
     available sort orders are :\n
     priceLow - hotels with lowest price,
@@ -113,29 +110,19 @@ if __name__ == '__main__':
     recommended: highest rated hotels based on traveler reviews,
     popularity :Most popular hotels as chosen by Tipadvisor users 
     """
-    parser.add_argument('sort',help = sortorder_help,default ='popularity ')
-    parser.add_argument('locality',help = 'Search Locality')
-    args = parser.parse_args()
-    locality = args.locality
-    checkin_date = datetime.strptime(args.checkin_date,"%Y/%m/%d")
-    checkout_date = datetime.strptime(args.checkout_date,"%Y/%m/%d")
-    sort= args.sort
+    locality = destination
+    checkin_date = datetime.strptime(checkinDate,"%Y/%m/%d")
+    checkout_date = datetime.strptime(checkoutDate,"%Y/%m/%d")
+    sort= popularity
     checkIn = checkin_date.strftime("%Y/%m/%d")
     checkOut = checkout_date.strftime("%Y/%m/%d")
     today = datetime.now()
+
+    get_hotels = []
    
     if today<datetime.strptime(checkIn,"%Y/%m/%d") and datetime.strptime(checkIn,"%Y/%m/%d")<datetime.strptime(checkOut,"%Y/%m/%d"):
         data = parse(locality,checkin_date,checkout_date,sort)
-        print "Writing to output file tripadvisor_data.csv"
-        with open('tripadvisor_data.csv','w')as csvfile:
-            fieldnames = ['hotel_name','url','locality','reviews','tripadvisor_rating','checkIn','checkOut','price_per_night','booking_provider','no_of_deals','hotel_features']
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            writer.writeheader()
-            for row in  data:
-                writer.writerow(row)
-    #checking whether the entered date is already passed
-    elif today>datetime.strptime(checkIn,"%Y/%m/%d") or today>datetime.strptime(checkOut,"%Y/%m/%d"):
-        print "Invalid Checkin date: Please enter a valid checkin and checkout dates,entered date is already passed"
-    
-    elif datetime.strptime(checkIn,"%Y/%m/%d")>datetime.strptime(checkOut,"%Y/%m/%d"):
-print "Invalid Checkin date: CheckIn date must be less than checkOut date"
+        for row in  data:
+            get_hotels.append(row)
+
+	return get_hotels

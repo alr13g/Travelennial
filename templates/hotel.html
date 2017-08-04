@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+{% extends "layout.html" %}
+{% block content %}
+  <head>
+  <style>
+   body{
+    background-color: white;
+   }
+
+   hr{
+    color: #168DFD;
+    border-color: #168DFD;
+    background-color: #168DFD;
+   }
+
+   li{
+    color: darkblue;
+   }
+  </style>
+  </head>
+<body>
+    <center><h1><font color = "darkblue">Choose Your Hotel </font><h1></center>
+    <div id = "hotelContainer">
+    <form id = "hotelForm" action="/itenerary/hotel" method = "POST">
+      {% for item in hotels %}
+      <input type = "hidden" name ="hotels_choice" value={{item[1]}}>
+      <ul id="hotellist">
+      <li hotel_price={{item[5]}} hot_name={{item[0]}}><a font size="30px" font color = "skyblue"
+      onclick="hotelForm.submit();">Add this hotel to your itenerary</a>
+      <br>
+      <h3 font color ="darkblue">Hotel: {{item[0]}}</h3>
+        <p>Check In: {{item[2]}}   Check Out: {{item[3]}}</p>
+        <p>Ameities: {{item[4]}}</p>
+        <p>Price: {{item[5]}}</p>
+        <p>Rating: {{item[6]}}</p>
+        <p>Link: {{item[8]}}
+        <br>
+        <hr>
+      </li>
+      </ul>
+      {% endfor %}
+      </form>
+    </div>
+</body>
+{%endblock%}
