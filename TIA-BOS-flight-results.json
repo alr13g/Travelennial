@@ -1,0 +1,188 @@
+[
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:25am"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "4:05pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "1:55pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 17 hours 5 minutes", 
+        "plane code": "73H", 
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "14131.52"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:50pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 14 hours 30 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "15253.12"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "15867.32"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "airline": "Lufthansa CityLine", 
+        "flight duration": "0 days 12 hours 55 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "15867.32"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "0 days 12 hours 55 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "15895.12"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:10pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:57pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "0 days 16 hours 22 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "15915.32"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "15971.32"
+    }
+]

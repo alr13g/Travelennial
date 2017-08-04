@@ -1,0 +1,1376 @@
+[
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "airline": "Sun Country Airlines", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "152.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:19am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 5 hours 39 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "169.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:07am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 5 hours 37 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "169.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:56pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "2:15pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 5 hours 41 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "169.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:07pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 37 minutes", 
+        "plane code": "777", 
+        "plane": "Boeing 777", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "169.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:11am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:46am", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "6:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 1 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "177.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:43pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:02am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:44pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 7 hours 42 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "177.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "182.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "182.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:06am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:52pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "11:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 2 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "190.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:14pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 54 minutes", 
+        "plane code": "75W", 
+        "plane": "Boeing 757-200", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "211.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "211.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 5 hours 39 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "211.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:05am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "1 days 5 hours 35 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "232.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:38pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:51am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 5 hours 47 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "232.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:15pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "232.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:15pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "232.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:05am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "1 days 5 hours 35 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "232.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:18pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:30pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "11:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 9 hours 10 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "241.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:21pm", 
+                "departure_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 35 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "2 Stop", 
+        "ticket price": "265.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:06am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:35am", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:06am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:59pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:33am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:14am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 7 hours 34 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "2:18pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "3:40pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 5 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:45pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:32am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "10:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 9 hours 32 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:42pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:31pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 21 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "arrival_time": "2:27pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:10pm", 
+                "departure_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "departure_time": "3:10pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:45pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "11:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 10 hours 40 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "arrival_time": "7:59am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:47pm", 
+                "departure_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "departure_time": "8:42am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 47 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:38pm", 
+                "departure_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:14am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 12 hours 9 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "2 Stop", 
+        "ticket price": "269.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "11:58am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:25am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:08pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 43 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "270.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "11:58am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:25am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "12:51pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "270.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:28pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:21am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:59am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 7 hours 53 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "270.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:46pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:57am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:22pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 8 hours 57 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "270.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:26am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "3:55pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 5 hours 31 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "292.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:57am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "12:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 27 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "292.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:02pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:35am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 27 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "292.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:57pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 27 minutes", 
+        "plane code": "777", 
+        "plane": "Boeing 777", 
+        "departure": "San Francisco", 
+        "stops": "Nonstop", 
+        "ticket price": "292.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "4:47pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 11 hours 0 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "306.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:25am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:12pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 47 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "307.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:23pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "4:45pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:16am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "9:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 10 hours 31 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "336.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:02pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:37am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:25pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 8 hours 42 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "342.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:13am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:03am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:49am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 8 hours 43 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "375.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "4:47pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:29pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 8 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "375.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:36am", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:16am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 9 hours 56 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "376.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "4:22pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:23pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 23 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "376.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:42am", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "9:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 9 hours 2 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "376.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "4:22pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:41pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 41 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "376.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:34am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "12:41am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:07am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 7 hours 26 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "386.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "6:14pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "9:25am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "398.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:31am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:07am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 8 hours 47 minutes", 
+        "plane code": "752", 
+        "plane": "Boeing 757-200", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "402.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:19am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:15pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:07am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 8 hours 52 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "402.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:34am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "12:41am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:09pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:45am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 10 hours 28 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "415.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "1:31pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:08pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 8 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:41pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:12pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:33pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 11 hours 17 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:59pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:05am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:48pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:13pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 43 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:15am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 9 hours 37 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:59pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:05am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:12pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:33pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 7 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:59pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:05am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 10 hours 1 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:40pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:16pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:45am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:53pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "7:56pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 8 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "San Francisco", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "12:22am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:24am", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:33am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:14am"
+            }
+        ], 
+        "airline": "Skywest Airlines As Alaskaskywest", 
+        "flight duration": "1 days 12 hours 48 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "San Francisco", 
+        "stops": "2 Stop", 
+        "ticket price": "727.91"
+    }
+]
