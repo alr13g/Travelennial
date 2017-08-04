@@ -1,0 +1,524 @@
+[
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 30 minutes", 
+        "plane code": "75W", 
+        "plane": "Boeing 757-200", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "296.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:04am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:35pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 6 hours 29 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "296.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "12:56am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 6 hours 51 minutes", 
+        "plane code": "75W", 
+        "plane": "Boeing 757-200", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "296.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:10am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "296.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:32pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 2 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "296.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:22pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "328.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "12:12am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 6 hours 42 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "328.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:17am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 17 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "328.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "356.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:32pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:55pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "356.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:32pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:55pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "356.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "356.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "356.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "356.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 5 minutes", 
+        "plane code": "75W", 
+        "plane": "Boeing 757-200", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "376.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "3:13pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 33 minutes", 
+        "plane code": "75W", 
+        "plane": "Boeing 757-200", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "376.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "7:24pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "376.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "12:06am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 6 hours 36 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "416.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:06pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 36 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "416.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 29 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "416.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "7:39pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:55pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "461.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "12:49pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 24 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "461.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:15pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "463.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:15pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "463.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:55am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "534.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:55am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "534.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 20 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "571.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "571.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 19 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "711.20"
+    }
+]

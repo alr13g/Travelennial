@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 {% extends "layout.html" %}
 {% block content %}
-  <body background="/static/travel_background.jpg">
+  <body background="/static/sunset-plane.png">
   <form action="/returnFlight" method="POST">
   <fieldset>
-    <legend><center><font color="white"><h1>Where to From Here?</h1></font></legend><br><br>
+    <legend><center><font color="white"><h1>Where to Next?</h1></font></legend><br><br>
     <div id = "travelForm">
       <select name="from_id" id="from_id">
         <option value="" disabled selected>From:</option> 
         {% for airport_item in airport_list %}
         <option value = "{{ airport_item[1] }}"> {{ airport_item[0] }}</option>
         {% endfor %}
-        </select><br>
+        </select><br><br>
     </div>
     <select name="to_id" id="to_id">
         <option value="" disabled selected>To:</option> 
         {% for airport_item in airport_list %}
         <option value = "{{ airport_item[1] }}"> {{ airport_item[0] }}</option>
         {% endfor %}
-        </select><br>
+        </select><br><br>
     <div id="date">
       <input type="date" id="date_id" name="date_id" placeholder="mm/dd/yyyy" align = "center" required>
     </div><br><br>
-      <button id="lookup" class="ui-priority-primary">Search</button>
+      <button id="lookup" class="ui-priority-primary">Search</button><br><br>
     </div>
   </fieldset>
 </form>

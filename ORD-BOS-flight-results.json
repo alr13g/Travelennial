@@ -1,0 +1,1802 @@
+[
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:24am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:05am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 19 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:02am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:44pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 2 hours 18 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:14pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 19 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:36pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 24 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:47am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:25pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 2 hours 22 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:11pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "11:54am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 17 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:42pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 22 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:06pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:44pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 22 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:19pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:50pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 29 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 25 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:27pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 17 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:04pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:40pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 24 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:16am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 16 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:33am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:14am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 19 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:13pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 28 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:13am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 26 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:08am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 18 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:11pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:49pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 22 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:07pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:50am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 17 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:21am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "110.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:51pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:19pm"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 2 hours 32 minutes", 
+        "plane code": "32A", 
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "115.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:24pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:02pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 22 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "131.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:59pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:45pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "5:43pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 46 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 43 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "7:19pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:08am", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 5 hours 33 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:06pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:12pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:29pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 6 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:06pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:01pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "12:09pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:57pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "12:54pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 19 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:44pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:33pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 48 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:04pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:04pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:22pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 4 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 55 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:18am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:20am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:33pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 13 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "1:15pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:47pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "1:48pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 52 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:09am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:25pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 53 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:34pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:12pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 52 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:06am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:57pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "12:54pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 51 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:29pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:12pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:29pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 17 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "1:40pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "11:28am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 32 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:02pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 57 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:12pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 7 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:18am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:20am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:25am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:09am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:18am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:20am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:25pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 43 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:13pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:28pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 28 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:13pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 25 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:28pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:37pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:31pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 27 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "9:32am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:22pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 7 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 48 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:23pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 6 hours 35 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:44pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:04pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:22pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 19 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:02pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:59pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:25am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:09am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:59pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:25am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 49 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:28pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 48 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:25pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 3 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "1:15pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 3 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:12pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:45pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "5:43pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 33 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:04pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:44pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 29 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "9:32am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "10:33am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:21am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 9 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:12pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:08am", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 7 hours 56 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:47pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "1:48pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 42 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:04pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:22pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "5:23pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:35pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "141.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:37pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 22 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "144.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:03pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 23 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Chicago", 
+        "stops": "Nonstop", 
+        "ticket price": "144.20"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "arrival_time": "2:59pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:46pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "departure_time": "3:43pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:26pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "2 Stop", 
+        "ticket price": "1951.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "arrival_time": "11:34am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:25am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "3:57pm", 
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "departure_time": "12:50pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:06pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "Envoy Air As American Eagle", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Chicago", 
+        "stops": "2 Stop", 
+        "ticket price": "2079.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:14am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:17pm", 
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:29pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:08pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane code": "M80", 
+        "plane": "MDC MD80", 
+        "departure": "Chicago", 
+        "stops": "2 Stop", 
+        "ticket price": "2084.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "arrival_time": "2:59pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:46pm"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:41pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Chicago", 
+        "stops": "2 Stop", 
+        "ticket price": "2084.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:41pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:23pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 5 hours 25 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "211.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:29pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:39pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "211.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:04pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:33pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 33 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "211.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "12:09pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 37 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "239.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:59pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 16 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "239.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:04pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:37pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "7:56pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 13 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "239.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:58pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:37pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:31pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 7 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "297.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:11pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:48pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:46pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "9:56pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 58 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Chicago", 
+        "stops": "1 Stop", 
+        "ticket price": "297.80"
+    }
+]

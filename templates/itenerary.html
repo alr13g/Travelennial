@@ -1,33 +1,53 @@
 <!DOCTYPE html>
 <html>
+<style>
+body{
+    background-image:url("/static/itenerary_background.jpg");
+    background-repeat: no-repeat;
+    background-size:1500px 1000px;
+    height:100%;
+  }
+p{
+	color: black;
+}
+</style>
+
  <body>
  {% extends "layout.html" %}
  {% block content %}
   <div class="about">
 	<h1><font color="darkblue"><b> Your Itenerary </h1></font></b>
 
-	{% for item in itenerary_items %}
+	{% for item in itenerary_departure %}
 		
 		{% if item[0] == 'departure_flight' %}
 			<h3><font color = "darkblue"> Your Departure Flight Details: </h3></font>
-			<p> From: {{item[1][1]}} </p>
+			<p><b> From: {{item[1][1]}} </p><b>
 			<p> Departure Time: {{item[1][2]}} </p><br>
 			<p> To: {{item[1][3]}} </p>
 			<p> Arrival Time: {{item[1][4]}} </p><br>
 			<p> Airline: {{item[1][5]}}
 			<p> Stops: {{item[1][10]}}</p>
 			<p><b><font color="darkblue"> Price:$ {{item[1][11]}}</p></b></font>
+
+		{% else %}
+			<a href="/returns" class="button"> Choose a return Flight! </a>
+
 		{% endif %}
 
-		{% if item[0] == 'return_flight' %}
-			<br><br><h3><font color = "darkblue"> Your Return Flight Details: </h3></font>
-			<p> From: {{item[1][1]}} </p>
-			<p> Departure Time: {{item[1][2]}} </p><br>
-			<p> To: {{item[1][3]}} </p>
-			<p> Arrival Time: {{item[1][4]}} </p><br>
-			<p> Airline: {{item[1][5]}}
-			<p> Stops: {{item[1][10]}}</p>
-			<p><b><font color="darkblue"> Price:$ {{item[1][11]}}</p></b></font>
+	{% endfor %}
+
+	{% for return in itenerary_return %}	
+
+		{% if return[0] == 'return_flight' %}
+			<br><h3><font color = "darkblue"> Your Return Flight Details: </h3></font>
+			<p> From: {{return[1][1]}} </p>
+			<p> Departure Time: {{return[1][2]}} </p><br>
+			<p> To: {{return[1][3]}} </p>
+			<p> Arrival Time: {{return[1][4]}} </p><br>
+			<p> Airline: {{return[1][5]}}
+			<p> Stops: {{return[1][10]}}</p>
+			<p><b><font color="darkblue"> Price:$ {{return[1][11]}}</p></b></font>
 
 		{% endif %}
 

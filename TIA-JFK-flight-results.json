@@ -1,0 +1,1634 @@
+[
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "11:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "8:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "6:45am"
+            }
+        ], 
+        "airline": "Turkish Airlines", 
+        "flight duration": "1 days 19 hours 50 minutes", 
+        "plane code": "73H", 
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1443.75"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "airline": "Turkish Airlines", 
+        "flight duration": "0 days 18 hours 50 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1443.75"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:45am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 15 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1549.26"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:45am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 15 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1559.26"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:45am"
+            }
+        ], 
+        "airline": "Austrian Airlines", 
+        "flight duration": "1 days 29 hours 10 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1568.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:45am"
+            }
+        ], 
+        "airline": "Austrian Airlines", 
+        "flight duration": "0 days 15 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1568.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "0 days 12 hours 20 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1573.02"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Belgrade, Serbia (BEG-Nikola Tesla)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Belgrade, Serbia (BEG-Nikola Tesla)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "airline": "Air Serbia", 
+        "flight duration": "0 days 13 hours 30 minutes", 
+        "plane code": "ATR", 
+        "plane": "ATR 42", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1586.62"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Belgrade, Serbia (BEG-Nikola Tesla)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Belgrade, Serbia (BEG-Nikola Tesla)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "airline": "Air Serbia", 
+        "flight duration": "1 days 27 hours 5 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1586.62"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "airline": "Lufthansa", 
+        "flight duration": "1 days 29 hours 55 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1587.51"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 17 hours 20 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "1609.53"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "1609.53"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 17 hours 20 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "1609.53"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "arrival_time": "8:50am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "1 days 27 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "1611.52"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "Geneva, Switzerland (GVA-Cointrin Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Geneva, Switzerland (GVA-Cointrin Intl.)", 
+                "departure_time": "11:45am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 16 hours 0 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "1613.61"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "5:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "1 days 27 hours 50 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "1623.41"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "airline": "Alitalia", 
+        "flight duration": "1 days 28 hours 9 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1656.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "1:35pm"
+            }
+        ], 
+        "airline": "Turkish Airlines", 
+        "flight duration": "0 days 14 hours 5 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "1751.75"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 18 hours 45 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:55pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 17 hours 20 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:55pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 17 hours 20 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 18 hours 45 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:35pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 19 hours 0 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:00pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 16 hours 25 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:35pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 19 hours 0 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:35pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 19 hours 0 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "Olympic", 
+        "flight duration": "0 days 18 hours 45 minutes", 
+        "plane code": "DH4", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2172.44"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LGW-Gatwick)", 
+                "arrival_time": "10:25pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "8:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "London, England, UK (LGW-Gatwick)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 22 hours 20 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2181.51"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "1:25pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "9:40am"
+            }
+        ], 
+        "airline": "Alitalia", 
+        "flight duration": "1 days 25 hours 10 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "2212.60"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "Alitalia", 
+        "flight duration": "1 days 30 hours 20 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "2212.60"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 15 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 15 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2232.68"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 14 hours 35 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2285.96"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2285.96"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 15 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2285.96"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "12:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 20 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2285.96"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 20 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2285.96"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2285.96"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "1:25pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 15 hours 0 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2296.69"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "1:25pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 15 hours 0 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2296.69"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:54pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 24 hours 39 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2334.53"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 26 hours 0 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "2370.89"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 28 hours 9 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "2370.89"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "airline": "Lufthansa CityLine", 
+        "flight duration": "0 days 12 hours 20 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "2375.08"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "11:50pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:42am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 23 hours 27 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2383.07"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "11:50pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:54pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 24 hours 39 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2383.07"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "11:25pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:40am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:20am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 22 hours 25 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2398.36"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)", 
+                "arrival_time": "11:50pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:31pm", 
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)", 
+                "departure_time": "10:20am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 24 hours 16 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2434.25"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "11:05pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "9:20pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 25 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2456.35"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "11:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "8:55pm"
+            }, 
+            {
+                "arrival_airport": "Geneva, Switzerland (GVA-Cointrin Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "8:10am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Geneva, Switzerland (GVA-Cointrin Intl.)", 
+                "departure_time": "11:45am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 23 hours 30 minutes", 
+        "plane code": "73H", 
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "2602.80"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "airline": "Alitalia", 
+        "flight duration": "1 days 26 hours 0 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "1 Stop", 
+        "ticket price": "4201.60"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Tirana, Albania (TIA-Rinas Intl.)", 
+                "departure_time": "4:25am"
+            }, 
+            {
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "arrival_time": "8:50am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "airline": "Airberlin", 
+        "flight duration": "0 days 14 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Tirana", 
+        "stops": "2 Stop", 
+        "ticket price": "5075.78"
+    }
+]

@@ -1,0 +1,764 @@
+[
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:34am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 19 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "178.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:23pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:06am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 19 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "188.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:08pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:22pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:25pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:10pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 5 hours 3 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "198.13"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:09am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 2 hours 24 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "223.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:28pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 23 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "223.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:51pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane code": "75W", 
+        "plane": "Boeing 757-200", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "223.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 24 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "223.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:16am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:23am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 23 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "233.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:24pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:04pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:07pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "233.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:39pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:37am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:30am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 10 hours 42 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "237.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:06am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 24 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "244.37"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:08pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:32pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:10pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 7 hours 24 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "244.37"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:13pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:02pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:01pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 12 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "252.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:53pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 48 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "278.80"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "1:04pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:10am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "2:39pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 54 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "286.80"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:04pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:07pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 9 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "288.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:16am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "10:39am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:20am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:13pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:37pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 13 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "2 Stop", 
+        "ticket price": "289.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:16am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "10:39am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:20am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "2:39pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "2 Stop", 
+        "ticket price": "295.00"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:18am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:49pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 54 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "2 Stop", 
+        "ticket price": "317.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:23pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:06am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:49pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 43 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "2 Stop", 
+        "ticket price": "317.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:15pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 30 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "318.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:13pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:59pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 9 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "325.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:13pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:02pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:01pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 12 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "325.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:32pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:59pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 44 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "325.30"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "7:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:02pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 46 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "326.80"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Columbus, OH (CMH-Port Columbus Intl.)", 
+                "arrival_time": "4:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:46pm", 
+                "departure_airport": "Columbus, OH (CMH-Port Columbus Intl.)", 
+                "departure_time": "5:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 16 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "326.80"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:18am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "1:07pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "2:39pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 9 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "2 Stop", 
+        "ticket price": "329.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:16am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "1:07pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "2:39pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "2 Stop", 
+        "ticket price": "329.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Columbus, OH (CMH-Port Columbus Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Columbus, OH (CMH-Port Columbus Intl.)", 
+                "departure_time": "7:05am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 10 hours 40 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "332.40"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:12pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "Mesa Airlines DBA United Express", 
+        "flight duration": "0 days 6 hours 42 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "334.67"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:48am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:52pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 8 hours 2 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "456.34"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:48pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:19pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 29 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "463.20"
+    }
+]

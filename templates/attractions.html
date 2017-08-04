@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <body>
+ {% extends "layout.html" %}
+ {% block content %}
+  <div class="about">
+	<h1> Things to do </h1><br><br>
+	{% for activitiy in attractions %}
+		<p>{{activity}} </p>
+	{% endfor %}
+   </div>
+   {% endblock %}
+  </body>
+</html>

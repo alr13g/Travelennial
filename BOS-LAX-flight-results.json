@@ -1,0 +1,1730 @@
+[
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:41am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "2:51pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 11 hours 36 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "1537.30"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "2:37pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 6 hours 17 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "282.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "2:37pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 6 hours 17 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "282.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "282.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:41am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 19 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "282.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:49pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 51 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "1:15pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "3:18pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 9 hours 10 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:12am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:25am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "3:08pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:37pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 43 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "7:59am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:36pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 10 hours 36 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "9:14am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:52am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:49am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "7:04pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:54pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:31pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "8:48pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 9 hours 37 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:27pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:45pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:44pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 18 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "10:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 25 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:09am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:22am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:07am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 9 hours 8 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "1:15pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "4:42pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "7:23pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "5:46pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 53 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:14am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:55am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:53am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 58 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "9:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:28am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "2:38pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 11 hours 10 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "6:03pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:41pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:08pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 21 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:33am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "8:38am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 10 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:05am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 10 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "11:12am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "7:59am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:08am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:42am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "7:22am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 5 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "10:38am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:08am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 10 hours 22 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:14am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:55am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:49am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "9:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:28am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:36pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 9 hours 8 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:31am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:52am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "3:22pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:50pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "4:42pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:58pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 10 hours 28 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "9:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:28am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "1:38pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "290.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:55pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:26pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 29 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "297.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:35pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 30 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "316.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:47pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:55pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:44pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:19pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "7:29pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:44pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:18am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 10 hours 13 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:17am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "10:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "1:31pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 45 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:59pm", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "1:02pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:47pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "324.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:44pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:05pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 39 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "371.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:44pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:10am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 34 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "371.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 25 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "371.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:19am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:52am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 27 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "371.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:59pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:27pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 28 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "378.30"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:27pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:01am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:27pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "378.30"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:27pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:01am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "5:08pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 7 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "378.30"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:59pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:04pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "5:51pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "378.30"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:39pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "1:07am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:30pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 8 hours 28 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "379.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:12pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:20pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "1:37am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "11:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 10 hours 17 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "379.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:43pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:44pm"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 9 hours 27 minutes", 
+        "plane code": "32A", 
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "411.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "8:49am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "10:05am"
+            }
+        ], 
+        "airline": "Sun Country Airlines", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "421.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:26pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:47pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:55pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:48pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 35 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:27pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 10 hours 43 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "11:16am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:26pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:49pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:30pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "8:37pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 41 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:31am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "2:44pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "9:22pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 8 hours 10 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "429.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:21pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "444.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:17pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 6 hours 32 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "444.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:17pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 6 hours 32 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "444.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:11pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:40pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:04pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "5:51pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 24 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "451.30"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:25am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:10pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 6 hours 15 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "452.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "5:59pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:35pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "452.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:47pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:55pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:57pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 45 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "479.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:45pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:17pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 28 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "502.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:16am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 16 minutes", 
+        "plane code": "32S", 
+        "plane": "Airbus A319-321", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "502.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:43pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 7 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "541.20"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:31am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:52am"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "3:18pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:33pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "5:20pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 12 hours 18 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "549.40"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:20am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "2:35pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "549.80"
+    }, 
+    {
+        "arrival": "Los Angeles", 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:52pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:44am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "1 days 16 hours 52 minutes", 
+        "plane code": "73J", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "595.40"
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 20 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "119.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 20 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "119.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "119.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 25 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "119.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:08am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 8 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "119.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:07pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 12 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "119.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:05am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 8 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "139.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:17pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:03pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "139.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:58pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:47pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 11 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "169.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:03am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:58am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "209.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:17am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 8 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "209.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:25am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 0 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "209.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 10 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "209.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:19am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:12am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 7 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "209.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:08pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:48pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 9 hours 32 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "395.79"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:13pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:22am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 23 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "395.79"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:56pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:06am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:48pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 12 hours 34 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "401.39"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:08pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:59pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 46 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "451.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:56pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:06am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:59pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 9 hours 48 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "457.40"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:40am"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 2 hours 10 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "46.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:43pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 20 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "79.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:50pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 25 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "79.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 10 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "79.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:07am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 10 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "79.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:47am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:40am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 7 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "79.21"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:10pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "93.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:35pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:29pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 6 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "93.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 20 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "93.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:09pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "93.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:08pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 12 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "93.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:27pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 23 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "93.20"
+    }
+]

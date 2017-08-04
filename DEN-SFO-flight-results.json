@@ -1,0 +1,362 @@
+[
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "11:40pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "9:57pm"
+            }
+        ], 
+        "airline": "Frontier Airlines", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "100.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "5:57pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "airline": "Frontier Airlines", 
+        "flight duration": "0 days 2 hours 42 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "100.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "3:48pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "111.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:31pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:55pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 36 minutes", 
+        "plane code": "777", 
+        "plane": "Boeing 777", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "111.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "2:54pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 49 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "111.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "111.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 2 hours 44 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "136.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:04pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:15am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 49 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "136.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:43am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "136.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 2 hours 44 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "136.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "11:39am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 49 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "136.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "7:23pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:40pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "136.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "2:14pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 44 minutes", 
+        "plane code": "788", 
+        "plane": "Boeing 787-8", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "168.21"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "4:51pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 36 minutes", 
+        "plane code": "788", 
+        "plane": "Boeing 787-8", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "88.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:38am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:55am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "88.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "11:59pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 39 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "88.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "7:17am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 47 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "88.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:38am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:55am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "88.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "6:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 2 hours 44 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "95.20"
+    }, 
+    {
+        "arrival": "San Francisco", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "6:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 2 hours 44 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "95.20"
+    }
+]

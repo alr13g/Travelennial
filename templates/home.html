@@ -1,30 +1,39 @@
 <!DOCTYPE html>
 {% extends "layout.html" %}
 {% block content %}
-  <h1><center><font color = "white"> Travel Edge - Travel like a pro, on a millenial budget </font></center></h1>
-  <body background="/static/travel_background.jpg">
+  <h1><center><font color = "white"> Travel Edge - Travel like a pro, on a millenial budget </font></center></h1><br><br>
+  
+  <style>
+  body{
+    background-image:url("/static/sunset-plane.png");
+    background-repeat: no-repeat;
+    background-size:100%;
+  }
+  </style>
+
+  <body>
   <form action="/" method="POST">
   <fieldset>
-    <legend><center><font color="white">Find a Flight</font></legend>
+    <br><br><legend><center><font color="white">Find a Flight</font></legend>
     <div id = "travelForm">
       <select name="from_id" id="from_id">
         <option value="" disabled selected>From:</option> 
         {% for airport_item in airport_list %}
         <option value = "{{ airport_item[1] }}"> {{ airport_item[0] }}</option>
         {% endfor %}
-        </select>
+        </select><br><br>
     </div>
     <select name="to_id" id="to_id">
         <option value="" disabled selected>To:</option> 
         {% for airport_item in airport_list %}
         <option value = "{{ airport_item[1] }}"> {{ airport_item[0] }}</option>
         {% endfor %}
-        </select>
+        </select><br><br>
     <div id="date">
       <input type="date" id="date_id" name="date_id" placeholder="mm/dd/yyyy" align = "center" required>
     </div><br><br>
      <p name="type" id="type" value='home'></p>
-      <b><button id="lookup" class="ui-priority-primary">Search</button></b>
+      <b><button id="lookup" class="ui-priority-primary">Search</button></b><br><br>
     </div>
   </fieldset>
 </form>

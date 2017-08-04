@@ -1,0 +1,416 @@
+[
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:44am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "1 days 5 hours 29 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "1298.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:44am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "1 days 5 hours 29 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "1298.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "3:35pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "1 days 5 hours 35 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "1298.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "3:35pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "1 days 5 hours 35 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "1298.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:35pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:05am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "1598.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:29pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "1598.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2448.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:35pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:05am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2448.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2448.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "11:05pm"
+            }
+        ], 
+        "airline": "Virgin America", 
+        "flight duration": "1 days 5 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2448.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "11:05pm"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "1 days 5 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2448.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:29pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "Alaska Airlines", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2448.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:19pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 49 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:34pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:29am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "11:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 5 hours 39 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "9:09pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 39 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:43pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 43 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:27am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 5 hours 27 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "2548.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:18pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 48 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "4147.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:49pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "4147.20"
+    }, 
+    {
+        "arrival": "New York", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:09pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 39 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Los Angeles", 
+        "stops": "Nonstop", 
+        "ticket price": "4147.20"
+    }
+]

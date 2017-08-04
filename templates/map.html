@@ -116,35 +116,28 @@
 
         function initMap(){
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 6,
-          center: new google.maps.LatLng({{destination[0][0]}}, {{destination[0][0]}}),
-
+          zoom: 3,
+          center: new google.maps.LatLng({{destination[0][0]}}, {{destination[0][1]}})
+        
         });
-
         var poly = new google.maps.Polyline({
           strokeColor: '#ff0000',
           strokeOpacity: 2.0,
           strokeWeight:2,
           map: map
         });
-
         var path = poly.getPath();
-
         var infowindow = new google.maps.InfoWindow();
-
         var marker, i;
-
-
         {% for airport in destination %}
           marker = new google.maps.Marker({
             position: new google.maps.LatLng('{{airport[0]}}', '{{airport[1]}}'),
             map: map
           });
-
           path.push(new google.maps.LatLng('{{airport[0]}}', '{{airport[1]}}'));
-
           google.maps.event.addListener(marker, 'click', (function(marker, i) {
             return function() {
+              infowindow.setContent('{{airport[0]}}');
               infowindow.setContent('');
               infowindow.open(map, marker);
             }

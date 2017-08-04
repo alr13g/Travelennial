@@ -1,0 +1,1892 @@
+[
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "1:23pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "airline": "Frontier Airlines", 
+        "flight duration": "0 days 3 hours 43 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "153.20"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "11:16pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:37pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 3 hours 39 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "188.20"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "9:53am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 3 hours 37 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "188.20"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "1:36pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 3 hours 41 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "188.20"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "5:06am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:25pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "1 days 3 hours 41 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "188.20"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:19pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "8:05am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:40pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:06pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "5:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:14pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "2:42pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:02pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 42 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:19am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:19am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:50am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "5:59pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:50am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:14pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "3:59pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 56 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:19am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:56am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:20am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 41 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:14pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:40pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:19pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "8:05am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:13pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:29pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 8 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:06pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:13pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:29pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 23 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "195.30"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:50am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "8:48am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:39pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 51 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:35pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:06pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:07pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:12am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:49pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:34pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:35am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:34pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:25am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:25am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "2:37pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 12 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:53pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:56pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:38pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 42 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "11:56am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "5:24pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "1:01pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 24 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:47pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:07pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "5:57am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:59pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:17am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:05am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 6 hours 18 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:02pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:31pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:58am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "2:37pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 37 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "8:15pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:15pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "11:51pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:53pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:56pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:35pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 39 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:12am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "1:16pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 4 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:46am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:37pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "4:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 51 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:38pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "9:13am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "5:24pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "1:01pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:38pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 43 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:49pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:34pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 5 hours 15 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:12am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:34pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 22 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:48pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "5:32pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:53pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 47 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "2:11pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 14 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:25am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:25am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:39pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 14 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:38pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:37pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:42pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:53pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:56pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:07pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 44 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:55am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:18am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 23 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:47pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:42pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:38pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:37pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:50am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "8:48am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:08pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "2:26pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:34pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:35am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "5:32pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:53pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 57 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:55am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "5:57am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:59pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:24am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 8 hours 25 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:34pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:35am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:49pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:38pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:37pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:07pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:58am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "12:44pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 44 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:47pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:37pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "4:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:12am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:44pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 7 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:25am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:38pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 13 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:06pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:34pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 8 hours 0 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:46am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:08pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "2:26pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 22 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:55am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:17am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 22 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "196.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:46am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:13pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 19 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "2 Stop", 
+        "ticket price": "200.90"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:48pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:34pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 49 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "216.81"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "7:36am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:11pm", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "9:38am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 11 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "216.81"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "8:48am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:11pm", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "9:38am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 1 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "216.81"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:55pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:49pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:04pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "220.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:31pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:07am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:07pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "220.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:37am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:49pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:04pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 12 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "220.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:29pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:49pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:04pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 49 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "220.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "2:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:35am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "220.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:38pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 58 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "236.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "11:01am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:10pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "236.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:25am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:59pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:44pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 34 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "236.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:44pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:34pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:54pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 54 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "236.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "12:42pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "9:23am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:42pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "1:12pm"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 5 hours 19 minutes", 
+        "plane code": "32A", 
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "271.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:27am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "1:56pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "10:17am"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 5 hours 56 minutes", 
+        "plane code": "32A", 
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "271.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "arrival_time": "5:47am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:59pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "1 days 6 hours 31 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "271.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:29am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:44pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "11:18am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:26am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 9 hours 34 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "437.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:10pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "9:14am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:11am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 8 hours 4 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "456.80"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:49am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:20am"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:01pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "518.81"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:03am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "12:30am"
+            }
+        ], 
+        "airline": "Frontier Airlines", 
+        "flight duration": "0 days 3 hours 33 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "Nonstop", 
+        "ticket price": "53.20"
+    }, 
+    {
+        "arrival": "Orlando", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:29am", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:44pm"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:12am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 7 hours 2 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Denver", 
+        "stops": "1 Stop", 
+        "ticket price": "593.79"
+    }
+]

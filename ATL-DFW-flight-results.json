@@ -1,0 +1,944 @@
+[
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:58am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:49am"
+            }, 
+            {
+                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "arrival_time": "8:29am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:39am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:21pm", 
+                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
+                "departure_time": "3:30pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 12 hours 32 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "2 Stop", 
+        "ticket price": "1826.01"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:53pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:29pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 24 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:16am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:37am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:20am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 17 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:13pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 23 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "10:32pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 17 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:39pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:18pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:19am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 19 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:33pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 24 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "233.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:11am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:50am"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "271.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "7:23am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:51am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 6 hours 51 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "271.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "8:59pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "7:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "8:06am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "10:12am", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "8:55am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 12 minutes", 
+        "plane code": "E70", 
+        "plane": "EMBRAER 170", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "8:06am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "12:56pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 56 minutes", 
+        "plane code": "E70", 
+        "plane": "EMBRAER 170", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "8:06am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:44am", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 44 minutes", 
+        "plane code": "E70", 
+        "plane": "EMBRAER 170", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "10:35am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:30am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "12:56pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 26 minutes", 
+        "plane code": "E70", 
+        "plane": "EMBRAER 170", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "6:34pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "10:49pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "9:40pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 29 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:56am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:59pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 3 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "8:31pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "10:49pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "9:40pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 29 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "5:52pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "281.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:56am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:22pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 7 hours 26 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "287.40"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane code": "M90", 
+        "plane": "MDC MD90", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 10 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "12:18pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:10am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 8 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:54pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 16 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:50pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "324.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:06pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 23 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:38pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 12 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:35pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 28 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "8:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:19pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "5:42pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:26pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 16 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:11pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 9 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:26pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:38pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 2 hours 12 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Atlanta", 
+        "stops": "Nonstop", 
+        "ticket price": "327.20"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "1:53pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:46pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:59pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 13 minutes", 
+        "plane code": "E70", 
+        "plane": "EMBRAER 170", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "335.80"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "4:32pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:01pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "699.81"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:58pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:47pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:01pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 48 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "699.81"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:01pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 5 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "699.81"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:07am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "4:32pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:01pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "699.81"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:07am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:01pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 9 hours 28 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "705.41"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:14am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:01pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "705.41"
+    }, 
+    {
+        "arrival": "Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:14am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "4:32pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:01pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 10 hours 27 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Atlanta", 
+        "stops": "1 Stop", 
+        "ticket price": "705.41"
+    }
+]
