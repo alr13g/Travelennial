@@ -3,7 +3,7 @@ from flask import Flask, render_template, request
 from flightData import getFlightData
 from parseFlights import parse_all_flights
 from getAirports import get_all_airports
-import json
+import json, urllib
 import requests
 from lxml import html
 from collections import OrderedDict
@@ -14,8 +14,8 @@ app = Flask(__name__)
 
 #use for maps
 mapKey = "AIzaSyD_3OXGut2rO_V_aH1DFxuJdaqmHtlSofU"
-global iteneraryItems 
-global global_flight_list 
+global iteneraryItems
+global global_flight_list
 
 class airport:
 	def __init__(self, name, key, lat, lng):
@@ -39,6 +39,8 @@ airports = [
 	airport('Boston Logan International Airport', 'BOS', 42.3656132, -71.0117489),
 	airport('Test', 'Te', 37.9045286, -122.1445772)]
 
+case = [[30.395412, -84.3472458]]
+
 destination = airports
 
 airport_by_key = {airport.key: airport for airport in airports}
@@ -47,7 +49,7 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 @app.route("/")
-def home():	
+def home():
 	allAirports = []
 	allAirports = get_all_airports()
 	for airportitem in allAirports:
@@ -82,7 +84,7 @@ def home_post():
 			json.dump(scraped_data,fp,indent = 4)
 
 		flight_list = parse_all_flights(scraped_data, source, destination)
-		global global_flight_list 
+		global global_flight_list
 		global_flight_list = flight_list
 
 		allAirports = []
@@ -127,7 +129,7 @@ def return_flight_post():
 			json.dump(scraped_data,fp,indent = 4)
 
 		flight_list = parse_all_flights(scraped_data, source, destination)
-		global global_flight_list 
+		global global_flight_list
 		global_flight_list = flight_list
 
 		allAirports = []
@@ -216,7 +218,20 @@ def test():
 
 @app.route('/search/')
 def search():
-	return render_template('search.html', airports = airports)
+	KEY = "AIzaSyCWvuV9bMA9iUGNCqqWdgKu4vuAfmlNAUk"
+	LOC = str(case[0][0]) + ',' + str(case[0][1])
+	RAD = 160934
+	TYPES = 'restaurant'
+	URL = ('https://maps.googleapis.com/maps/api/place/nearbysearch/json'
+           '?location=%s'
+           '&radius=%s'
+           '&types=%s'
+           '&sensor=false&key=%s') % (LOC, RAD, TYPES, KEY)
+	resp = urllib.urlopen(URL)
+	jRAW = resp.read()
+	jDATA = json.loads(jRAW)
+	print (jDATA['results'])
+	return render_template('resturant.html', stores = jDATA)
 
 @app.route('/search/<airport_code>')
 def show_route(airport_code):

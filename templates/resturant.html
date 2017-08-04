@@ -1,25 +1,63 @@
 <!DOCTYPE html>
 {% extends "layout.html" %}
 {% block content %}
-
+<style>
+#map {
+        height: 100%;
+      }
+</style>
   <body>
     <h1> Look for your travel destination! </h1>
-    <p> Select one of our starting points and end with an airport </p>
-  <script>
-  function initMap(){
-  var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 3,
-    center: new google.maps.LatLng({{airport[0]}}, {{airport[1]}})
-  });
+    {% for store in stores['results'] %}
+    <li>
+      <p>{{store['name']}}: {{store['rating']}}/5</p>
+      <p>{{store['vicinity']}}</p>
+      <p>{{store['international_phone_number']}}</p>
+    </li>
+    {% endfor %}
+    <div id='map'></div>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWvuV9bMA9iUGNCqqWdgKu4vuAfmlNAUk&libraries=places&callback=initMap" async defer></script>
+  </body>
+  <script type="text/javascript">
+  var map;
+  var infowindow;
+  function initMap() {
+          var pyrmont = {lat: -33.867, lng: 151.195};
 
+          map = new google.maps.Map(document.getElementById('map'), {
+            center: pyrmont,
+            zoom: 15
+          });
 
-  var marker;
-      marker = new google.maps.Marker({
-      position: new google.maps.LatLng('{{airport[0]}}', '{{airport[1]}}'),
-      map: map
-    });
-}
+          infowindow = new google.maps.InfoWindow();
+          var service = new google.maps.places.PlacesService(map);
+          service.nearbySearch({
+            location: pyrmont,
+            radius: 500,
+            type: ['store']
+          }, callback);
+        }
+
+        function callback(results, status) {
+          if (status === google.maps.places.PlacesServiceStatus.OK) {
+            for (var i = 0; i < results.length; i++) {
+              createMarker(results[i]);
+            }
+          }
+        }
+
+        function createMarker(place) {
+          var placeLoc = place.geometry.location;
+          var marker = new google.maps.Marker({
+            map: map,
+            position: place.geometry.location
+          });
+
+          google.maps.event.addListener(marker, 'click', function() {
+            infowindow.setContent(place.name);
+            infowindow.open(map, this);
+          });
+        }
+
 </script>
-
-</body>
 {%endblock%}

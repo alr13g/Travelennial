@@ -1,0 +1,2144 @@
+[
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:53pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:38pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:44am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 7 hours 6 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "335.99"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "2:59pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:13pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 10 hours 35 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:44pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:35pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 8 hours 57 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:27pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 9 hours 49 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:44pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:54pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "7:56pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 11 hours 16 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:48pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:23pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:10pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:27pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 10 hours 49 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "3:28pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 12 hours 2 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "3:47pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:55pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:18pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "354.72"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:43pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "7:35pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "356.22"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "5:15pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:14am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 13 hours 36 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "360.32"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:09pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:53pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:15pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "366.70"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:09pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:53pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:15pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "369.86"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "8:52pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:17pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:59pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 12 hours 39 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "372.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "9:06pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:59pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:22pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 13 hours 21 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "383.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:53pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:38pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:33pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:02am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "1 days 13 hours 24 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "394.13"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:53pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:38pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:44am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 7 hours 6 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "410.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "4:58pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:41pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 11 hours 3 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "416.29"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "3:28pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:29pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "416.29"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:48pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:29pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "416.29"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "arrival_time": "11:43am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "9:49am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:09pm", 
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "departure_time": "1:55pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "431.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "12:22pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 8 hours 42 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "438.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:13pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:51pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 8 hours 13 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "439.47"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:13pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:11pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 10 hours 22 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "439.47"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:18am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:51pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 51 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:11pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 25 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:11pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:18am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:27pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 25 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:33pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 53 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:33pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 37 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:59am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:25am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 19 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "450.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:59am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:22pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 9 hours 24 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:27pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:27pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 25 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:11pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:33pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 11 hours 35 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:13pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 50 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:33pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:51pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 11 hours 41 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:33pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 11 hours 53 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:51pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 11 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 34 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:33pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 23 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:13pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "456.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:46pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "458.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:53am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 7 hours 53 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "458.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "8:34pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:53am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 5 hours 43 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "458.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:46am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "458.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:57pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 57 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "458.80"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "arrival_time": "11:43am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "9:49am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "departure_time": "2:45pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:29pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 10 hours 59 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "467.26"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "12:22pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 12 hours 2 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "3 Stop", 
+        "ticket price": "474.79"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "12:22pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "departure_time": "2:45pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 12 hours 2 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "3 Stop", 
+        "ticket price": "474.79"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "12:22pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Fort Lauderdale, FL (FLL-Fort Lauderdale - Hollywood Intl.)", 
+                "departure_time": "2:45pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:29pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "3 Stop", 
+        "ticket price": "523.24"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:46am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:27pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:06am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:42pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 22 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "525.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:27pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 57 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "525.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:15pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:27pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 57 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "525.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:04pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:40pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:27pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 57 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "525.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:53am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 12 hours 23 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "536.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:46am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:21pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 11 hours 1 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "536.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:57pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 27 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "536.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:46am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:01pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 41 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "536.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "2:50pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:11pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 10 hours 22 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "540.43"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:21pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:33pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:19pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 43 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "596.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:03pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "3:29pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "596.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:44am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:03pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:45am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 48 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "596.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:44am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:35am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "596.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:21pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "596.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:44am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:33pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:19pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 18 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "601.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:44am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "601.90"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "4:12pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "610.28"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "6:41pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:09pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:36pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "airline": "ExpressJet DBA Delta Connection", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "610.28"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "8:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:17pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:59pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 7 hours 42 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "610.28"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:48am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:33pm"
+            }
+        ], 
+        "airline": "", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane code": "717", 
+        "plane": "Boeing 717", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "610.28"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "4:28pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "5:38pm"
+            }
+        ], 
+        "airline": "Silver Airways", 
+        "flight duration": "0 days 11 hours 2 minutes", 
+        "plane code": "SF3", 
+        "plane": "Saab 340/340B", 
+        "departure": "Tallahassee", 
+        "stops": "2 Stop", 
+        "ticket price": "612.06"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:03pm", 
+                "departure_airport": "Tallahassee, FL (TLH-Tallahassee Regional)", 
+                "departure_time": "3:29pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:48pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:29pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 19 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Tallahassee", 
+        "stops": "1 Stop", 
+        "ticket price": "621.30"
+    }
+]

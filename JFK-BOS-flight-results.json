@@ -1,0 +1,422 @@
+[
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:21am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:59am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 22 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:39pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 39 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:28pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 29 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:29am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 24 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:28pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 1 hours 28 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:12pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:29pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 43 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "352.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:56pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:28pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 1 hours 28 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:46pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 1 hours 14 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:06am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:52am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 1 hours 14 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:42am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 1 hours 12 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:53pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:24pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 1 hours 29 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:42pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:29pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 1 hours 13 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:38pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 1 hours 7 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:34am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:15am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 1 hours 19 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "398.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:01pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 51 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "502.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:22pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 1 hours 17 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "New York", 
+        "stops": "Nonstop", 
+        "ticket price": "662.40"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:08am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:03am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:49am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "New York", 
+        "stops": "1 Stop", 
+        "ticket price": "762.60"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:59pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:13pm"
+            }
+        ], 
+        "airline": "Endeavor Air DBA Delta Connection", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "New York", 
+        "stops": "1 Stop", 
+        "ticket price": "881.30"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:59pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:57pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "Endeavor Air DBA Delta Connection", 
+        "flight duration": "0 days 9 hours 58 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "New York", 
+        "stops": "1 Stop", 
+        "ticket price": "892.50"
+    }, 
+    {
+        "arrival": "Boston", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "8:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:29am"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "airline": "Endeavor Air DBA Delta Connection", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "New York", 
+        "stops": "1 Stop", 
+        "ticket price": "947.92"
+    }
+]

@@ -3,1459 +3,175 @@
         "arrival": "Chicago", 
         "timings": [
             {
-                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "arrival_time": "3:38pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "2:00pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:58pm", 
-                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "departure_time": "5:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 5 hours 58 minutes", 
-        "plane code": "319", 
-        "plane": "Airbus A319", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "1129.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "arrival_time": "4:41pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "3:00pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:58pm", 
-                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "departure_time": "5:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 4 hours 58 minutes", 
-        "plane code": "319", 
-        "plane": "Airbus A319", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "1129.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "arrival_time": "2:40pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "1:00pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:58pm", 
-                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "departure_time": "5:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 6 hours 58 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "1129.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "9:56pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "8:08pm"
-            }
-        ], 
-        "airline": "United", 
-        "flight duration": "0 days 2 hours 48 minutes", 
-        "plane code": "739", 
-        "plane": "Boeing 737-900", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "220.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:09am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:22am"
-            }
-        ], 
-        "airline": "United", 
-        "flight duration": "0 days 2 hours 47 minutes", 
-        "plane code": "739", 
-        "plane": "Boeing 737-900", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "220.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:12pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:20pm"
-            }
-        ], 
-        "airline": "United", 
-        "flight duration": "0 days 2 hours 52 minutes", 
-        "plane code": "753", 
-        "plane": "Boeing 757 (757-300)", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "220.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "11:06am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "9:21am"
-            }
-        ], 
-        "airline": "United", 
-        "flight duration": "0 days 2 hours 45 minutes", 
-        "plane code": "753", 
-        "plane": "Boeing 757 (757-300)", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "220.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "4:38pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "2:55pm"
-            }
-        ], 
-        "airline": "United", 
-        "flight duration": "0 days 2 hours 43 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "262.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "9:08pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:11pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 57 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "262.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:31pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:50pm"
-            }
-        ], 
-        "airline": "United", 
-        "flight duration": "0 days 2 hours 41 minutes", 
-        "plane code": "753", 
-        "plane": "Boeing 757 (757-300)", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "262.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "8:25am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "11:21am", 
-                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "departure_time": "9:40am"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 5 hours 21 minutes", 
-        "plane code": "", 
-        "plane": "", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "283.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "6:44pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "5:05pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "9:30pm", 
-                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "departure_time": "7:25pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 5 hours 25 minutes", 
-        "plane code": "319", 
-        "plane": "Airbus A319", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "283.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "arrival_time": "8:08am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "5:50am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "11:33am", 
-                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "departure_time": "10:00am"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 43 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "283.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
-                "arrival_time": "5:32pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "3:05pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:50pm", 
-                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
-                "departure_time": "8:30pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 45 minutes", 
-        "plane code": "", 
-        "plane": "", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "283.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "7:20am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "11:21am", 
-                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "departure_time": "9:40am"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 21 minutes", 
-        "plane code": "319", 
-        "plane": "Airbus A319", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "283.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "10:21am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "9:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:20pm", 
-                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "departure_time": "12:40pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 20 minutes", 
-        "plane code": "", 
-        "plane": "", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "283.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
                 "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "arrival_time": "7:10pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "4:55pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:20pm", 
-                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "departure_time": "10:00pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 25 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "339.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "arrival_time": "9:02pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:45pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:20pm", 
-                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "departure_time": "10:00pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 4 hours 35 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "339.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "arrival_time": "7:10pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "4:55pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:21pm", 
-                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "departure_time": "7:55pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 4 hours 26 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "339.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "9:20am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "8:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:20pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "12:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 7 hours 20 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "355.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "9:20am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "8:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:21pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "10:30am"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 5 hours 21 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "355.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "3:29pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "2:00pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:26pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "4:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 5 hours 26 minutes", 
-        "plane code": "E75", 
-        "plane": "Embraer 175", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "355.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "7:48am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:30am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:21pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "10:30am"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 6 hours 51 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "355.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "2:24pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "1:00pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:26pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "4:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 6 hours 26 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "355.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "2:24pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "1:00pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:24pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "3:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 5 hours 24 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "355.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "9:20am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "8:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "1:11pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "11:16am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:25pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "4:00pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 10 hours 25 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "3933.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "10:19am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "9:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "1:11pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "11:16am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:25pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "4:00pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 9 hours 25 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "3933.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "1:19pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:00pm"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "4:50pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "2:59pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:53pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "7:30pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 9 hours 53 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "3933.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "7:20am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "11:23am", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "9:29am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:04pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "12:43pm"
-            }
-        ], 
-        "airline": "Republic Airlines As American Eagle", 
-        "flight duration": "0 days 9 hours 4 minutes", 
-        "plane code": "E75", 
-        "plane": "Embraer 175", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "3933.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "8:24am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "11:23am", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "9:29am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:04pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "12:43pm"
-            }
-        ], 
-        "airline": "Republic Airlines As American Eagle", 
-        "flight duration": "0 days 8 hours 4 minutes", 
-        "plane code": "E75", 
-        "plane": "Embraer 175", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "3933.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "7:48am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:30am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "11:23am", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "9:29am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:04pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "12:43pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 8 hours 34 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "3933.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "12:18pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "11:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "3:13pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "1:25pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:53pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "7:30pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 10 hours 53 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "3945.00"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "7:55am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:00am"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 55 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "406.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:54pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "9:00pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 54 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "406.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:46pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "3:49pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 57 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "406.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "7:35pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "5:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 3 hours 5 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "406.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:42am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "5:00am"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 42 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "406.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:30pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:43pm"
-            }
-        ], 
-        "airline": "Spirit Airlines", 
-        "flight duration": "0 days 2 hours 47 minutes", 
-        "plane code": "32A", 
-        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "416.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "arrival_time": "2:40pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "1:00pm"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "5:18pm", 
-                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "departure_time": "3:59pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:53pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "7:30pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 8 hours 53 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4189.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "arrival_time": "1:33pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:00pm"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "5:18pm", 
-                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "departure_time": "3:59pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:53pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "7:30pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 9 hours 53 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4189.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "arrival_time": "1:33pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:00pm"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "3:58pm", 
-                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "departure_time": "2:40pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:53pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "7:30pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 9 hours 53 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4189.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "arrival_time": "7:39am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "10:09am", 
-                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
-                "departure_time": "8:50am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:04pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "12:43pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 9 hours 4 minutes", 
-        "plane code": "319", 
-        "plane": "Airbus A319", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4189.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "arrival_time": "10:41am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "9:05am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "2:56pm", 
-                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "departure_time": "1:25pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:25pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "4:00pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 9 hours 20 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4199.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "arrival_time": "9:49am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "8:15am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "12:18pm", 
-                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "departure_time": "10:45am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:25pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "4:00pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 10 hours 10 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4199.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "arrival_time": "7:29am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "10:46am", 
-                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "departure_time": "9:15am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "2:04pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "12:43pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 9 hours 4 minutes", 
-        "plane code": "321", 
-        "plane": "Airbus A321", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4199.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "arrival_time": "9:49am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "8:15am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "2:56pm", 
-                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "departure_time": "1:25pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:25pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "4:00pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 10 hours 10 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4199.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "arrival_time": "12:32pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "11:00am"
-            }, 
-            {
-                "arrival_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "arrival_time": "2:56pm", 
-                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
-                "departure_time": "1:25pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:25pm", 
-                "departure_airport": "St. Louis, MO (STL-Lambert-St. Louis Intl.)", 
-                "departure_time": "4:00pm"
-            }
-        ], 
-        "airline": "", 
-        "flight duration": "0 days 7 hours 25 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "2 Stop", 
-        "ticket price": "4199.80"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:28pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "10:35am"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 53 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "438.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "1:54pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:00pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 54 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "438.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:48am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "5:05am"
-            }
-        ], 
-        "airline": "United", 
-        "flight duration": "0 days 2 hours 43 minutes", 
-        "plane code": "753", 
-        "plane": "Boeing 757 (757-300)", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "462.40"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "arrival_time": "5:00pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "2:39pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:03pm", 
-                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "departure_time": "8:40pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 8 hours 24 minutes", 
-        "plane code": "M90", 
-        "plane": "MDC MD90", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "463.58"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "10:00am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:15am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "1:45pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "12:35pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 7 hours 30 minutes", 
-        "plane code": "321", 
-        "plane": "Airbus A321", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "463.58"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "arrival_time": "8:08am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "5:50am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:20am", 
-                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "departure_time": "8:55am"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 5 hours 30 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "463.58"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "arrival_time": "7:50am", 
+                "arrival_time": "7:54am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
                 "departure_time": "5:45am"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "9:01am", 
+                "arrival_time": "9:10am", 
                 "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "departure_time": "8:35am"
+                "departure_time": "8:40am"
             }
         ], 
         "airline": "Delta", 
-        "flight duration": "0 days 4 hours 16 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
+        "flight duration": "0 days 4 hours 25 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "463.58"
+        "ticket price": "104.80"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
-                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "arrival_time": "5:00pm", 
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:54am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "2:39pm"
+                "departure_time": "5:45am"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "7:05pm", 
-                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "departure_time": "5:30pm"
+                "arrival_time": "10:19am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:00am"
             }
         ], 
         "airline": "Delta", 
-        "flight duration": "0 days 5 hours 26 minutes", 
-        "plane code": "M90", 
-        "plane": "MDC MD90", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "463.58"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "11:14am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "8:30am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "1:45pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "12:35pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 15 minutes", 
-        "plane code": "321", 
-        "plane": "Airbus A321", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "463.58"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "arrival_time": "10:00am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:15am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:25pm", 
-                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
-                "departure_time": "11:17am"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 10 minutes", 
-        "plane code": "321", 
-        "plane": "Airbus A321", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "463.58"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
-                "arrival_time": "8:14am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "5:50am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "11:03am", 
-                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
-                "departure_time": "10:44am"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 13 minutes", 
-        "plane code": "717", 
-        "plane": "Boeing 717", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "519.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "arrival_time": "1:45pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "11:31am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "7:05pm", 
-                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "departure_time": "5:30pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 8 hours 34 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "519.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "arrival_time": "1:45pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "11:31am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "4:44pm", 
-                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
-                "departure_time": "3:16pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 13 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "519.60"
+        "ticket price": "104.80"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "3:57pm", 
+                "arrival_time": "7:47am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "2:05pm"
+                "departure_time": "6:00am"
             }
         ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 52 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 47 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
         "departure": "Boston", 
         "stops": "Nonstop", 
-        "ticket price": "578.40"
+        "ticket price": "107.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 44 minutes", 
+        "plane code": "753", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "107.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:42am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:56am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 46 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "109.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:20pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "Spirit Airlines", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane code": "32A", 
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "112.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:42pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 47 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "153.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:06pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 36 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "153.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:56am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:09am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 47 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "162.20"
     }, 
     {
         "arrival": "Chicago", 
@@ -1473,238 +189,190 @@
         "plane": "Boeing 737-800", 
         "departure": "Boston", 
         "stops": "Nonstop", 
-        "ticket price": "578.40"
+        "ticket price": "173.20"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "9:40pm", 
+                "arrival_time": "7:51am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:48pm"
+                "departure_time": "6:00am"
             }
         ], 
-        "airline": "JetBlue Airways", 
-        "flight duration": "0 days 2 hours 52 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "624.38"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:13pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "10:22am"
-            }
-        ], 
-        "airline": "JetBlue Airways", 
+        "airline": "American Airlines", 
         "flight duration": "0 days 2 hours 51 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
         "departure": "Boston", 
         "stops": "Nonstop", 
-        "ticket price": "624.38"
+        "ticket price": "173.20"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "9:32am", 
+                "arrival_time": "6:37am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:40am"
+                "departure_time": "5:00am"
             }
         ], 
-        "airline": "JetBlue Airways", 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 37 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "173.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:39pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 49 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "173.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:52am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
         "flight duration": "0 days 2 hours 52 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
         "departure": "Boston", 
         "stops": "Nonstop", 
-        "ticket price": "624.38"
+        "ticket price": "173.20"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:54pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "4:59pm"
-            }
-        ], 
-        "airline": "JetBlue Airways", 
-        "flight duration": "0 days 2 hours 55 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "624.38"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "arrival_time": "2:45pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:40pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:10pm", 
-                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "departure_time": "5:42pm"
-            }
-        ], 
-        "airline": "Delta", 
-        "flight duration": "0 days 6 hours 30 minutes", 
-        "plane code": "319", 
-        "plane": "Airbus A319", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "635.58"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "1:19pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "12:00pm"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "6:26pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "4:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 7 hours 26 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "649.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "11:26am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "10:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "3:20pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "1:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 6 hours 20 minutes", 
-        "plane code": "E75", 
-        "plane": "Embraer 175", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "649.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "12:18pm", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "11:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "3:20pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "1:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 5 hours 20 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "649.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "7:20am", 
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:23am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
                 "departure_time": "6:00am"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:21pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "10:30am"
+                "arrival_time": "12:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:30am"
             }
         ], 
         "airline": "American Airlines", 
-        "flight duration": "0 days 7 hours 21 minutes", 
-        "plane code": "E75", 
-        "plane": "Embraer 175", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "649.60"
+        "ticket price": "176.30"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:23am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:06am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 6 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "176.30"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:05am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "9:35am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "177.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "7:39am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:07am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 7 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "177.80"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
                 "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "10:19am", 
+                "arrival_time": "10:28am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
                 "departure_time": "9:00am"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "3:20pm", 
+                "arrival_time": "1:15pm", 
                 "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "1:30pm"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 7 hours 20 minutes", 
-        "plane code": "E90", 
-        "plane": "Embraer 190", 
-        "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "649.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "7:20am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "6:00am"
-            }, 
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "10:15am", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "8:30am"
+                "departure_time": "11:30am"
             }
         ], 
         "airline": "American Airlines", 
@@ -1713,31 +381,43 @@
         "plane": "Embraer 175", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "649.60"
+        "ticket price": "177.80"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
-                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
-                "arrival_time": "8:24am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:00am"
-            }, 
-            {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:21pm", 
-                "departure_airport": "New York, NY (LGA-LaGuardia)", 
-                "departure_time": "10:30am"
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:18pm"
             }
         ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 6 hours 21 minutes", 
-        "plane code": "E75", 
-        "plane": "Embraer 175", 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
         "departure": "Boston", 
-        "stops": "1 Stop", 
-        "ticket price": "649.60"
+        "stops": "Nonstop", 
+        "ticket price": "179.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:17pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 52 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "179.20"
     }, 
     {
         "arrival": "Chicago", 
@@ -1746,129 +426,1365 @@
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
                 "arrival_time": "6:35pm", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "4:44pm"
+                "departure_time": "4:41pm"
             }
         ], 
         "airline": "United", 
-        "flight duration": "0 days 2 hours 51 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
+        "flight duration": "0 days 2 hours 54 minutes", 
+        "plane code": "739", 
+        "plane": "Boeing 737-900", 
         "departure": "Boston", 
         "stops": "Nonstop", 
-        "ticket price": "658.40"
+        "ticket price": "179.20"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
-                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "2:35pm", 
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:14am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "1:10pm"
+                "departure_time": "8:30am"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "7:04pm", 
-                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "departure_time": "5:04pm"
+                "arrival_time": "3:12pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:05pm"
             }
         ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 6 hours 54 minutes", 
-        "plane code": "32B", 
-        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 42 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "659.60"
+        "ticket price": "187.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:14am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:30am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:49pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 19 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "187.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "7:52pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:55pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "8:38pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 30 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "187.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:32pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 47 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "187.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:04am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:49pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 34 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "187.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:50am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:34am", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "187.80"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
                 "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "arrival_time": "11:30am", 
+                "arrival_time": "9:19am", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "9:20am"
+                "departure_time": "7:10am"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "12:24pm", 
+                "arrival_time": "10:19am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 9 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "187.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:11pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 11 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "188.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:13pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:20pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 2 hours 53 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "203.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "216.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:11pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 11 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "218.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:10pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "219.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:27pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 52 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "219.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:24pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 56 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "219.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:48pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 48 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "219.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:52am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:23pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 8 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "223.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:52am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "223.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:04am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "239.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:19am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:22pm", 
                 "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
                 "departure_time": "12:00pm"
             }
         ], 
         "airline": "Delta", 
-        "flight duration": "0 days 4 hours 4 minutes", 
-        "plane code": "320", 
-        "plane": "Airbus A320", 
+        "flight duration": "0 days 6 hours 12 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "675.60"
-    }, 
-    {
-        "arrival": "Chicago", 
-        "timings": [
-            {
-                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "8:55am", 
-                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "7:00am"
-            }
-        ], 
-        "airline": "American Airlines", 
-        "flight duration": "0 days 2 hours 55 minutes", 
-        "plane code": "738", 
-        "plane": "Boeing 737-800", 
-        "departure": "Boston", 
-        "stops": "Nonstop", 
-        "ticket price": "754.40"
+        "ticket price": "239.80"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
                 "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "arrival_time": "12:58pm", 
+                "arrival_time": "12:23pm", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
-                "departure_time": "11:42am"
+                "departure_time": "11:00am"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "5:19pm", 
+                "arrival_time": "2:45pm", 
                 "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
-                "departure_time": "3:23pm"
+                "departure_time": "1:04pm"
             }
         ], 
-        "airline": "JetBlue Airways", 
-        "flight duration": "0 days 6 hours 37 minutes", 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "239.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:12pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 27 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "239.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:49pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:32pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 32 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "239.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "9:41am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:13pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 13 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "243.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:09pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 9 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "243.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "8:22pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:09pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 9 minutes", 
         "plane code": "E90", 
         "plane": "Embraer 190", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "771.60"
+        "ticket price": "243.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "7:39am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:13pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 13 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "243.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:12pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 12 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "246.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "246.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "3:19pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:46pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 46 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "260.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "5:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:12pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 12 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "260.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "3:19pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:11pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "260.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "5:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:11pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "260.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:11pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 11 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "260.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "5:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:11pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 11 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "260.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:05am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:23pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:07pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:30pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:58pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 28 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "265.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:48pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 2 hours 48 minutes", 
+        "plane code": "73G", 
+        "plane": "Boeing 737-700", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "266.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "3:19pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "268.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:16pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:19pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 19 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "268.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "3:19pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:16pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 16 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "268.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:16pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "268.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:16pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:12pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 12 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "268.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:49pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:42pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "282.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:37am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 33 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "282.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:37am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:48pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 11 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "282.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:29pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 54 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "289.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:52pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 2 hours 52 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "Nonstop", 
+        "ticket price": "289.20"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:17am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:45am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 51 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "296.31"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:17am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:45am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 30 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "296.31"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:03pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "305.30"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:28am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "4:28pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:51pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 51 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "Boston", 
+        "stops": "2 Stop", 
+        "ticket price": "332.50"
     }, 
     {
         "arrival": "Chicago", 
         "timings": [
             {
                 "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
-                "arrival_time": "2:45pm", 
+                "arrival_time": "2:50pm", 
                 "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
                 "departure_time": "12:40pm"
             }, 
             {
                 "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
-                "arrival_time": "3:59pm", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:35pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 18 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "333.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:59pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:46pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:35pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 12 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "333.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:33pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:01pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 51 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "342.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:03pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:09pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "372.30"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "5:38pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:09pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 9 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "375.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "5:38pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:15pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:01pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "Boston", 
+        "stops": "1 Stop", 
+        "ticket price": "375.80"
+    }, 
+    {
+        "arrival": "Chicago", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:58pm", 
                 "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
                 "departure_time": "3:35pm"
             }
         ], 
         "airline": "Delta", 
-        "flight duration": "0 days 4 hours 19 minutes", 
-        "plane code": "319", 
-        "plane": "Airbus A319", 
+        "flight duration": "0 days 4 hours 18 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
         "departure": "Boston", 
         "stops": "1 Stop", 
-        "ticket price": "819.60"
+        "ticket price": "377.80"
     }
 ]
