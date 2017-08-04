@@ -14,6 +14,8 @@ app = Flask(__name__)
 
 #use for maps
 mapKey = "AIzaSyD_3OXGut2rO_V_aH1DFxuJdaqmHtlSofU"
+global iteneraryItems 
+global global_flight_list 
 
 class airport:
 	def __init__(self, name, key, lat, lng):
@@ -70,23 +72,118 @@ def home_post():
 	print("Getting flight details")
 	scraped_data = getFlightData(source, destination, date)
 	print("Writing data to JSON file")
-	with open('%s-%s-flight-results.json'%(source,destination),'w') as fp:
-		json.dump(scraped_data,fp,indent = 4)
 
-	flight_list = parse_all_flights(scraped_data, source, destination)
+	if scraped_data == 'no data':
+		return render_template('oops.html')
 
-	allAirports = []
-	coords = []
-	allAirports = get_all_airports()
-	for airportitem in allAirports:
 
-		if airportitem[1] == source:
-			coords.append([airportitem[2], airportitem[3]])
+	else:
+		with open('%s-%s-flight-results.json'%(source,destination),'w') as fp:
+			json.dump(scraped_data,fp,indent = 4)
 
-		if airportitem[1] == destination:
-			coords.append([airportitem[2], airportitem[3]])
+		flight_list = parse_all_flights(scraped_data, source, destination)
+		global global_flight_list 
+		global_flight_list = flight_list
 
-	return render_template('map.html', flight_list = flight_list, temp=airport, destination=coords)
+		allAirports = []
+		coords = []
+		allAirports = get_all_airports()
+		for airportitem in allAirports:
+
+			if airportitem[1] == source:
+				coords.append([airportitem[2], airportitem[3]])
+
+			if airportitem[1] == destination:
+				coords.append([airportitem[2], airportitem[3]])
+
+		return render_template('map.html', flight_list = flight_list, temp=airport, destination=coords)
+
+
+@app.route("/returnFlight", methods = ["POST", "GET"])
+def return_flight_post():
+	print("hereeeeeee!!")
+	source = request.form['from_id']
+	print("Source: " + str(source))
+	destination = request.form['to_id']
+	print("Destination: " + str(destination))
+	date = request.form['date_id']
+	print("Date " + str(date))
+
+	argparser = argparse.ArgumentParser()
+	argparser.add_argument('source',help = 'Source airport code')
+	argparser.add_argument('destination',help = 'Destination airport code')
+	argparser.add_argument('date',help = 'MM/DD/YYYY')
+
+	print("Getting flight details")
+	scraped_data = getFlightData(source, destination, date)
+	print("Writing data to JSON file")
+
+	if scraped_data == 'no data':
+		return render_template('oops.html')
+
+
+	else:
+		with open('%s-%s-flight-results.json'%(source,destination),'w') as fp:
+			json.dump(scraped_data,fp,indent = 4)
+
+		flight_list = parse_all_flights(scraped_data, source, destination)
+		global global_flight_list 
+		global_flight_list = flight_list
+
+		allAirports = []
+		coords = []
+		allAirports = get_all_airports()
+		for airportitem in allAirports:
+
+			if airportitem[1] == source:
+				coords.append([airportitem[2], airportitem[3]])
+
+			if airportitem[1] == destination:
+				coords.append([airportitem[2], airportitem[3]])
+
+		return render_template('return_map.html', flight_list = flight_list, temp=airport, destination=coords)
+
+
+@app.route("/itenerary/departure", methods = ["POST", "GET"])
+def itenerary_postdeparture():
+	print("IM IN HERE YO")
+	flight_choice = request.form['flight_depart_choice']
+	print(flight_choice)
+	print("Printed flight choice")
+	global iteneraryItems
+	depart_flight = []
+	global global_flight_list
+
+	print(global_flight_list)
+	iteneraryItems = []
+
+	for flight in global_flight_list:
+		if flight[7] == flight_choice:
+			print(flight)
+			depart_flight = flight
+
+	iteneraryItems.append(['departure_flight', depart_flight])
+	return render_template('itenerary.html', itenerary_items = iteneraryItems)
+
+@app.route("/itenerary/return", methods = ["POST", "GET"])
+def itenerary_postreturn():
+	flight_choice = request.form['flight_return_choice']
+	print(flight_choice)
+	print("Printed flight choice")
+	global iteneraryItems
+
+	return_flight = []
+	global global_flight_list
+
+	print(global_flight_list)
+
+	for flight in global_flight_list:
+		if flight[7] == flight_choice:
+			print(flight)
+			return_flight = flight
+
+	iteneraryItems.append(['return_flight', return_flight])
+	return render_template('itenerary.html', itenerary_items = iteneraryItems)
 
 @app.route("/returns/")
 def returns():
@@ -96,7 +193,7 @@ def returns():
 		print(airportitem[0] + " " + airportitem[1])
 	return render_template('returns.html', airport_list = allAirports)
 
-@app.route("/source_flight/<string:flight_id>")
+@app.route("/return_flight/<string:flight_info>")
 def itenerary(flight_id):
 	return render_template('itenerary.html', source_flight = flight_id)
 

@@ -1,35 +1,27 @@
 <!DOCTYPE html>
 {% extends "layout.html" %}
 {% block content %}
-  <h1><center><font color = "white"> Travel Edge - Travel like a pro, on a millenial budget </font></center></h1>
   <body background="/static/travel_background.jpg">
-  <form action="/" method="POST">
+  <form action="/returnFlight" method="POST">
   <fieldset>
-    <legend><center><font color="white">Choose a Return Flight or add Another Flight</font></legend>
+    <legend><center><font color="white"><h1>Where to From Here?</h1></font></legend><br><br>
     <div id = "travelForm">
       <select name="from_id" id="from_id">
         <option value="" disabled selected>From:</option> 
         {% for airport_item in airport_list %}
         <option value = "{{ airport_item[1] }}"> {{ airport_item[0] }}</option>
         {% endfor %}
-        </select>
+        </select><br>
     </div>
     <select name="to_id" id="to_id">
         <option value="" disabled selected>To:</option> 
         {% for airport_item in airport_list %}
         <option value = "{{ airport_item[1] }}"> {{ airport_item[0] }}</option>
         {% endfor %}
-        </select>
+        </select><br>
     <div id="date">
       <input type="date" id="date_id" name="date_id" placeholder="mm/dd/yyyy" align = "center" required>
     </div><br><br>
-      <div id="hops">
-        <label for="hops-any"><font color="white">Any</font></label>
-        <input type="radio" name="hops" id="hops-any" value="" checked>
-        <label for="hops-nonstop"><font color="white">Nonstop Only</font></label>
-        <input type="radio" name="hops" id="hops-nonstop" value="NONSTOP">
-      </div>
-    <div><br><br>
       <button id="lookup" class="ui-priority-primary">Search</button>
     </div>
   </fieldset>

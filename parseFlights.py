@@ -42,7 +42,7 @@ def parse_all_flights(scraped_datas, source, destination):
 			price_category="p6"
 
 		airline_category = ""
-		
+
 		if airline == "Delta":
 			airline_category = "Delta"
 		elif airline == "American Airlines":
@@ -51,7 +51,7 @@ def parse_all_flights(scraped_datas, source, destination):
 			airline_category = "United"
 		elif airline == "Frontier":
 			airline_category = "Frontier"
-		elif airline == "Jet Blue Airways":
+		elif airline == "JetBlue Airways":
 			airline_category = "JetBlue"
 		elif airline == "Spirit Airlines":
 			airline_category = "Spirit"

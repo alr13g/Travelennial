@@ -36,7 +36,7 @@
   </style>
   </head>
   <body>
-    <center><h1><font color = "darkblue">Choose Your Departing Flight </font><h1></center>
+    <center><h1><font color = "darkblue">Choose Your Return Flight </font><h1></center>
     <div id="map_page_container">
       <div id="map" style="width:100%; height:600px;"></div>
       
@@ -89,9 +89,9 @@
       </div>
       <div id="allFlights_container">
       <article id="allflights">
-      <form id = "flight_form" action="/itenerary/departure" method = "POST">
+      <form id = "flight_form" action="/itenerary/return" method = "POST">
         {% for flight in flight_list %}
-        <input type="hidden" name="flight_depart_choice" value={{flight[7]}}>
+        <input type="hidden" name="flight_return_choice" value={{flight[7]}}>
         <ul id="flightlist">
           <li data-price={{flight[12]}} data-airline={{flight[13]}}> <a font size="30px" font color = "skyblue" onclick="flight_form.submit();">Add this Flight to your itenerary</a>
             <br>

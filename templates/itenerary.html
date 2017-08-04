@@ -4,8 +4,37 @@
  {% extends "layout.html" %}
  {% block content %}
   <div class="about">
-	<h1> Your Itenerary </h1>
-	<p> Your starting flight: {{ % source_flight %}} </p>
+	<h1><font color="darkblue"><b> Your Itenerary </h1></font></b>
+
+	{% for item in itenerary_items %}
+		
+		{% if item[0] == 'departure_flight' %}
+			<h3><font color = "darkblue"> Your Departure Flight Details: </h3></font>
+			<p> From: {{item[1][1]}} </p>
+			<p> Departure Time: {{item[1][2]}} </p><br>
+			<p> To: {{item[1][3]}} </p>
+			<p> Arrival Time: {{item[1][4]}} </p><br>
+			<p> Airline: {{item[1][5]}}
+			<p> Stops: {{item[1][10]}}</p>
+			<p><b><font color="darkblue"> Price:$ {{item[1][11]}}</p></b></font>
+		{% endif %}
+
+		{% if item[0] == 'return_flight' %}
+			<br><br><h3><font color = "darkblue"> Your Return Flight Details: </h3></font>
+			<p> From: {{item[1][1]}} </p>
+			<p> Departure Time: {{item[1][2]}} </p><br>
+			<p> To: {{item[1][3]}} </p>
+			<p> Arrival Time: {{item[1][4]}} </p><br>
+			<p> Airline: {{item[1][5]}}
+			<p> Stops: {{item[1][10]}}</p>
+			<p><b><font color="darkblue"> Price:$ {{item[1][11]}}</p></b></font>
+
+		{% else %}
+			<br><br><b><a href="/returns" class="button"> Choose a return flight! </a><b>
+
+		{% endif %}
+
+	{% endfor %}
    </div>
    {% endblock %}
   </body>
