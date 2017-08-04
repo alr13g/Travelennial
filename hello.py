@@ -226,6 +226,10 @@ def show_route(airport_code):
 	else:
 		return render_template('search.html', airports = airports)
 
+@app.route('/information/')
+def information():
+	return render_template('information.html')
+
 @app.route('/about/')
 def about():
 	return render_template('about.html')
